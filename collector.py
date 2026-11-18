@@ -396,7 +396,7 @@ def write_digest(items, source_status, windows, path):
            f"Windows: journals {windows['journals']}, preprints {windows['preprints']}. "
            "Items collected on earlier days are excluded.",
            "",
-           "## Source status",
+           "## Source status (records returned by each source in the latest run, before de-duplication)",
            ""]
     for name, status in source_status.items():
         out.append(f"- {name}: {status['status']}, {status['count']} items"
@@ -469,9 +469,6 @@ def main():
     if today_file.exists():
         earlier = json.loads(today_file.read_text())
         new_items = earlier["items"] + new_items
-        for name, status in earlier["sources"].items():
-            if name in source_status and status["status"] == "ok":
-                source_status[name]["count"] += status["count"]
 
     windows = {"journals": f"{date_from} to {date_to}", "preprints": f"{date_from} to {preprint_to}"}
     payload = {
