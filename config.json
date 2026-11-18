@@ -1,0 +1,49 @@
+{
+  "lookback_days": 3,
+  "seen_retention_days": 60,
+  "journals": [
+    {"name": "Nature",                  "issn": ["0028-0836", "1476-4687"]},
+    {"name": "Science",                 "issn": ["0036-8075", "1095-9203"]},
+    {"name": "Cell",                    "issn": ["0092-8674", "1097-4172"]},
+    {"name": "Nature Methods",          "issn": ["1548-7091", "1548-7105"]},
+    {"name": "Nature Biotechnology",    "issn": ["1087-0156", "1546-1696"]},
+    {"name": "Nature Genetics",         "issn": ["1061-4036", "1546-1718"]},
+    {"name": "Nature Medicine",         "issn": ["1078-8956", "1546-170X"]},
+    {"name": "Nature Communications",   "issn": ["2041-1723"]},
+    {"name": "Science Advances",        "issn": ["2375-2548"]},
+    {"name": "Nature Cancer",           "issn": ["2662-1347"]},
+    {"name": "Nature Neuroscience",     "issn": ["1097-6256", "1546-1726"]},
+    {"name": "Cell Genomics",           "issn": ["2666-979X"]},
+    {"name": "Cell Systems",            "issn": ["2405-4712", "2405-4720"]},
+    {"name": "Molecular Cell",          "issn": ["1097-2765", "1097-4164"]},
+    {"name": "Cancer Cell",             "issn": ["1535-6108", "1878-3686"]},
+    {"name": "Neuron",                  "issn": ["0896-6273", "1097-4199"]},
+    {"name": "Am J Hum Genet",          "issn": ["0002-9297", "1537-6605"]},
+    {"name": "Genome Biology",          "issn": ["1474-760X", "1465-6906"]},
+    {"name": "Genome Research",         "issn": ["1088-9051", "1549-5469"]},
+    {"name": "Cancer Discovery",        "issn": ["2159-8274", "2159-8290"]},
+    {"name": "NEJM",                    "issn": ["0028-4793", "1533-4406"]}
+  ],
+  "preprint_categories": {
+    "biorxiv": ["genomics", "bioinformatics", "systems biology", "genetics",
+                "cancer biology", "neuroscience", "synthetic biology",
+                "molecular biology", "cell biology", "immunology"],
+    "medrxiv": ["genetic and genomic medicine", "oncology", "neurology"]
+  },
+  "preprint_max_age_days": 30,
+  "keywords": {
+    "core": ["single-cell", "single cell", "scRNA", "snRNA", "single-nucleus", "single nucleus",
+             "multiome", "scATAC", "CITE-seq", "Perturb-seq", "lineage tracing",
+             "spatial transcriptom", "spatial omic", "spatial proteom", "spatially resolved",
+             "Visium", "Xenium", "MERFISH", "CosMx", "Slide-seq", "Stereo-seq", "seqFISH",
+             "long-read", "long read", "nanopore", "PacBio", "HiFi", "full-length isoform",
+             "isoform-level"],
+    "secondary": ["CRISPR", "Cas9", "Cas12", "Cas13", "base edit", "prime edit", "genetic screen",
+                  "pooled screen", "GWAS", "genome-wide association", "fine-mapping", "fine mapping",
+                  "eQTL", "QTL", "polygenic", "Mendelian randomization", "colocalization",
+                  "heritability", "biobank"],
+    "disease": ["amyotrophic lateral sclerosis", "\\bALS\\b", "motor neuron", "TDP-43", "C9orf72",
+                "cancer", "tumor", "tumour", "carcinoma", "leukemia", "leukaemia", "lymphoma",
+                "glioma", "glioblastoma", "melanoma", "sarcoma", "metasta"]
+  }
+}

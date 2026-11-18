@@ -1,0 +1,46 @@
+name: Collect candidates
+
+on:
+  schedule:
+    # 02:37 UTC = 03:37 Stockholm in winter, 04:37 in summer.
+    # Leaves time for GitHub's scheduling delays before the 05:55 morning scan.
+    - cron: "37 2 * * *"
+  workflow_dispatch:
+    inputs:
+      lookback_days:
+        description: "Days to look back (default from config.json)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run collector
+        env:
+          LOOKBACK_DAYS: ${{ github.event.inputs.lookback_days }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+        run: python collector.py
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add candidates state
+          git diff --cached --quiet && exit 0
+          git commit -m "Candidates $(date -u +%F)"
+          git push
