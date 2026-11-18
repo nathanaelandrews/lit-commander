@@ -124,19 +124,28 @@ def crossref_date(record):
 
 
 def fetch_crossref_journal(journal, date_from, date_to):
-    """All journal articles whose DOI was registered in the window, for one journal."""
-    filters = [f"issn:{issn}" for issn in journal["issn"]]
-    filters += [f"from-created-date:{date_from}", f"until-created-date:{date_to}", "type:journal-article"]
-    params = {
-        "filter": ",".join(filters),
-        "rows": 1000,
-        "select": "DOI,title,author,container-title,created,published,abstract,type,URL",
-    }
-    url = "https://api.crossref.org/works?" + urllib.parse.urlencode(params)
-    records = get_json(url)["message"]["items"]
+    """All journal articles for one journal whose DOI was registered OR published in the window.
+
+    Two queries because publishers differ: some register the DOI on publication day,
+    others (e.g. AAAS) register it earlier, so only the publication date falls in the window.
+    """
+    records = {}
+    for date_field in ("created", "pub"):
+        filters = [f"issn:{issn}" for issn in journal["issn"]]
+        filters += [f"from-{date_field}-date:{date_from}", f"until-{date_field}-date:{date_to}",
+                    "type:journal-article"]
+        params = {
+            "filter": ",".join(filters),
+            "rows": 1000,
+            "select": "DOI,title,author,container-title,created,published,abstract,type,URL",
+        }
+        url = "https://api.crossref.org/works?" + urllib.parse.urlencode(params)
+        for record in get_json(url)["message"]["items"]:
+            records[normalise_doi(record.get("DOI"))] = record
+        time.sleep(0.3)
 
     items = []
-    for record in records:
+    for record in records.values():
         title = strip_tags(" ".join(record.get("title") or []))
         authors_raw = [a for a in record.get("author", []) if crossref_author_name(a)]
         authors = [crossref_author_name(a) for a in authors_raw]
@@ -185,9 +194,12 @@ def pubmed_search(journals, date_from, date_to):
     return result["esearchresult"]["idlist"]
 
 
-def pubmed_article_to_item(article):
+def pubmed_article_to_item(article, issn_to_name):
     citation = article.find("MedlineCitation")
     art = citation.find("Article")
+    issns = [node.text for node in art.findall("Journal/ISSN")]
+    issns += [citation.findtext("MedlineJournalInfo/ISSNLinking") or ""]
+    journal_name = next((issn_to_name[i.upper()] for i in issns if i and i.upper() in issn_to_name), None)
 
     publication_types = {pt.text for pt in art.findall("PublicationTypeList/PublicationType")}
     if publication_types & PUBMED_EXCLUDED_TYPES:
@@ -225,7 +237,7 @@ def pubmed_article_to_item(article):
     return make_item(
         doi=doi,
         title="".join(art.find("ArticleTitle").itertext()).strip() if art.find("ArticleTitle") is not None else "",
-        journal=art.findtext("Journal/ISOAbbreviation") or art.findtext("Journal/Title", ""),
+        journal=journal_name or art.findtext("Journal/ISOAbbreviation") or art.findtext("Journal/Title", ""),
         date=date,
         source="pubmed",
         authors=authors,
@@ -239,13 +251,14 @@ def pubmed_article_to_item(article):
 
 def fetch_pubmed(journals, date_from, date_to):
     pmids = pubmed_search(journals, date_from, date_to)
+    issn_to_name = {issn.upper(): j["name"] for j in journals for issn in j["issn"]}
     items = []
     for start in range(0, len(pmids), 200):
         batch = pmids[start:start + 200]
         xml_bytes = http_get(f"{EUTILS}/efetch.fcgi",
                              pubmed_params({"id": ",".join(batch), "retmode": "xml"}))
         for article in ET.fromstring(xml_bytes).findall("PubmedArticle"):
-            item = pubmed_article_to_item(article)
+            item = pubmed_article_to_item(article, issn_to_name)
             if item:
                 items.append(item)
         time.sleep(0.5)
@@ -449,6 +462,17 @@ def main():
     for item in new_items:
         item["hits"] = keyword_hits(item, compiled_keywords)
 
+    # A second run on the same day adds to that day's file instead of replacing it
+    out_dir = ROOT / "candidates"
+    out_dir.mkdir(exist_ok=True)
+    today_file = out_dir / f"{TODAY.isoformat()}.json"
+    if today_file.exists():
+        earlier = json.loads(today_file.read_text())
+        new_items = earlier["items"] + new_items
+        for name, status in earlier["sources"].items():
+            if name in source_status and status["status"] == "ok":
+                source_status[name]["count"] += status["count"]
+
     windows = {"journals": f"{date_from} to {date_to}", "preprints": f"{date_from} to {preprint_to}"}
     payload = {
         "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
@@ -458,8 +482,6 @@ def main():
         "items": new_items,
     }
 
-    out_dir = ROOT / "candidates"
-    out_dir.mkdir(exist_ok=True)
     for stem in (TODAY.isoformat(), "latest"):
         (out_dir / f"{stem}.json").write_text(json.dumps(payload, indent=1, ensure_ascii=False))
         write_digest(new_items, source_status, windows, out_dir / f"{stem}.md")
