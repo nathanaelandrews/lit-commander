@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T08:18:07+00:00",
+ "generated_at": "2026-11-18T08:23:33+00:00",
  "windows": {
   "journals": "2026-11-15 to 2026-11-18",
   "preprints": "2026-11-15 to 2026-11-17"
@@ -7,7 +7,7 @@
  "sources": {
   "crossref:Nature": {
    "status": "ok",
-   "count": 28
+   "count": 56
   },
   "crossref:Science": {
    "status": "ok",
@@ -15,27 +15,27 @@
   },
   "crossref:Cell": {
    "status": "ok",
-   "count": 2
+   "count": 4
   },
   "crossref:Nature Methods": {
    "status": "ok",
-   "count": 3
+   "count": 6
   },
   "crossref:Nature Biotechnology": {
    "status": "ok",
-   "count": 1
+   "count": 3
   },
   "crossref:Nature Genetics": {
    "status": "ok",
-   "count": 4
+   "count": 8
   },
   "crossref:Nature Medicine": {
    "status": "ok",
-   "count": 3
+   "count": 6
   },
   "crossref:Nature Communications": {
    "status": "ok",
-   "count": 62
+   "count": 131
   },
   "crossref:Science Advances": {
    "status": "ok",
@@ -43,15 +43,15 @@
   },
   "crossref:Nature Cancer": {
    "status": "ok",
-   "count": 2
+   "count": 4
   },
   "crossref:Nature Neuroscience": {
    "status": "ok",
-   "count": 3
+   "count": 6
   },
   "crossref:Cell Genomics": {
    "status": "ok",
-   "count": 1
+   "count": 2
   },
   "crossref:Cell Systems": {
    "status": "ok",
@@ -59,7 +59,7 @@
   },
   "crossref:Molecular Cell": {
    "status": "ok",
-   "count": 5
+   "count": 10
   },
   "crossref:Cancer Cell": {
    "status": "ok",
@@ -67,15 +67,15 @@
   },
   "crossref:Neuron": {
    "status": "ok",
-   "count": 2
+   "count": 4
   },
   "crossref:Am J Hum Genet": {
    "status": "ok",
-   "count": 1
+   "count": 2
   },
   "crossref:Genome Biology": {
    "status": "ok",
-   "count": 5
+   "count": 10
   },
   "crossref:Genome Research": {
    "status": "ok",
@@ -83,26 +83,26 @@
   },
   "crossref:Cancer Discovery": {
    "status": "ok",
-   "count": 2
+   "count": 5
   },
   "crossref:NEJM": {
    "status": "ok",
-   "count": 1
+   "count": 2
   },
   "pubmed": {
    "status": "ok",
-   "count": 95
+   "count": 190
   },
   "biorxiv": {
    "status": "ok",
-   "count": 352
+   "count": 704
   },
   "medrxiv": {
    "status": "ok",
-   "count": 24
+   "count": 48
   }
  },
- "n_items": 549,
+ "n_items": 557,
  "items": [
   {
    "doi": "10.1038/d41586-026-03765-x",
@@ -16338,6 +16338,300 @@
    "url": "https://doi.org/10.64898/2026.11.12.26367994",
    "type": "oncology",
    "version": "1",
+   "hits": [
+    "disease"
+   ]
+  },
+  {
+   "doi": "10.1038/s41467-026-79347-2",
+   "title": "An ingestible, bio-inspired self-powered electrocapsule for in situ ethanol clearance mitigates systemic and neurobehavioral toxicity",
+   "journal": "Nature Communications",
+   "date": "2026-11-18",
+   "source": "crossref",
+   "authors": [
+    "Yiran Pu",
+    "Wenqi Wei",
+    "Yuanmeng He",
+    "Kai Yong",
+    "Mei Chen",
+    "Yajing Zhang",
+    "Yue Wu",
+    "Jiaxin Long",
+    "Yunxiang He",
+    "Gonghua Hong",
+    "Hao Wu",
+    "Junling Guo"
+   ],
+   "first_author": "Yiran Pu",
+   "last_author": "Junling Guo",
+   "last_author_affiliation": "",
+   "corresponding_author": "",
+   "corresponding_institution": "",
+   "abstract": "",
+   "url": "https://doi.org/10.1038/s41467-026-79347-2",
+   "type": "journal-article",
+   "version": "",
+   "hits": []
+  },
+  {
+   "doi": "10.1038/s41467-026-79350-7",
+   "title": "Morphogenesis of the muscular ventricular septum is driven by retinoic acid signalling to myocardium",
+   "journal": "Nature Communications",
+   "date": "2026-11-17",
+   "source": "crossref",
+   "authors": [
+    "Tobias H. Bønnelykke",
+    "Célia Coulon",
+    "Rachel Sturny",
+    "Marie Couderc",
+    "Claudio Cortés",
+    "Célia Rousset",
+    "Diptarka Saha",
+    "Damien Marchese",
+    "Christopher De Bono",
+    "Lucile Miquerol",
+    "Gonzalo del Monte-Nieto",
+    "Stéphane Zaffran",
+    "Robert G. Kelly"
+   ],
+   "first_author": "Tobias H. Bønnelykke",
+   "last_author": "Robert G. Kelly",
+   "last_author_affiliation": "",
+   "corresponding_author": "",
+   "corresponding_institution": "",
+   "abstract": "",
+   "url": "https://doi.org/10.1038/s41467-026-79350-7",
+   "type": "journal-article",
+   "version": "",
+   "hits": []
+  },
+  {
+   "doi": "10.1038/s41467-026-79484-8",
+   "title": "Mpox virus replication and drug resistance in the central nervous system of a man with advanced human immunodeficiency virus at autopsy",
+   "journal": "Nature Communications",
+   "date": "2026-11-17",
+   "source": "crossref",
+   "authors": [
+    "Maria Charles",
+    "Sofia Romero Ferrufino",
+    "Sabrina C. Ramelli",
+    "Shane Gallogly",
+    "Claude Kwe Yinda",
+    "Divya Ahuja",
+    "Edwin Hayes",
+    "Morgan Pizzuti",
+    "Kevin M. Vannella",
+    "Craig Martens",
+    "Franziska Kaiser",
+    "Andrew P. Platt",
+    "Martha Quezado",
+    "C. Paul Morris",
+    "Vincent J. Munster",
+    "Stephen M. Hewitt",
+    "Daniel S. Chertow"
+   ],
+   "first_author": "Maria Charles",
+   "last_author": "Daniel S. Chertow",
+   "last_author_affiliation": "",
+   "corresponding_author": "",
+   "corresponding_institution": "",
+   "abstract": "Abstract Mpox virus (MPXV) clade IIb caused an outbreak of >100,000 cases globally, with highest disease burden in people living with advanced human immunodeficiency virus (HIV), those with CD4 count <200 cells/mm 3 . We performed an extensive autopsy on a fatal case of mpox in a man living with advanced HIV-1, who achieved HIV suppression but poor immune reconstitution despite > 6 months antiretroviral therapy and had progressive necrotizing mucocutaneous mpox disease despite multiple prolonged mpox-targeted therapies. We quantified MPXV DNA across 76 autopsy samples from different anatomical sites and observed a high burden in skin and mucosal tissue and a lower burden in all central nervous system (CNS) tissues tested. However, we detected replication-competent MPXV in multiple CNS tissues and confirmed neuronal and glial cell infection using RNA-scope in situ hybridization. MPXV sequencing from body and brain tissues revealed widespread tecovirimat resistance-associated variants. This case proves that replication-competent MPXV and tecovirimat resistance-associated isolates can infect and persist in the CNS of people with advanced HIV thus informing future therapeutic design.",
+   "url": "https://doi.org/10.1038/s41467-026-79484-8",
+   "type": "journal-article",
+   "version": "",
+   "hits": []
+  },
+  {
+   "doi": "10.1038/s41467-026-78722-3",
+   "title": "Coherence and pairing enhancement in a trilayer cuprate with layer-selective charge order",
+   "journal": "Nature Communications",
+   "date": "2026-11-17",
+   "source": "crossref",
+   "authors": [
+    "Steef Smit",
+    "Martin Bluschke",
+    "Peter C. Moen",
+    "Niclas Heinsdorf",
+    "Edoardo Zavatti",
+    "Gabriele Bellomia",
+    "Samuele Giuli",
+    "Sydney K. Y. Dufresne",
+    "Cissy T. Suen",
+    "Valentin Zimmermann",
+    "Christine C. Au-Yeung",
+    "Sergey Zhdanovich",
+    "Jerry I. Dadap",
+    "Pinder Dosanjh",
+    "Marta Zonno",
+    "Sergey Gorovikov",
+    "Heemin Lee",
+    "Cheng-Tai Kuo",
+    "Jun-Sik Lee",
+    "Dongjoon Song",
+    "Shigeyuki Ishida",
+    "Hiroshi Eisaki",
+    "Bernhard Keimer",
+    "Matteo Michiardi",
+    "Ilya S. Elfimov",
+    "Giorgio Levy",
+    "David J. Jones",
+    "Massimo Capone",
+    "Andrea Damascelli"
+   ],
+   "first_author": "Steef Smit",
+   "last_author": "Andrea Damascelli",
+   "last_author_affiliation": "",
+   "corresponding_author": "",
+   "corresponding_institution": "",
+   "abstract": "",
+   "url": "https://doi.org/10.1038/s41467-026-78722-3",
+   "type": "journal-article",
+   "version": "",
+   "hits": []
+  },
+  {
+   "doi": "10.1038/s41467-026-79174-5",
+   "title": "A revised genome annotation of the model cyanobacterium Synechocystis based on start and stop codon-enriched ribosome profiling and proteogenomics",
+   "journal": "Nature Communications",
+   "date": "2026-11-18",
+   "source": "crossref",
+   "authors": [
+    "Lydia Hadjeras",
+    "Vanessa Krauspe",
+    "Rick Gelhausen",
+    "Benjamin Heiniger",
+    "Philipp Spät",
+    "Viktoria Reimann",
+    "Garance Jaques",
+    "Paul Minges",
+    "Raphael Bilger",
+    "Maren Gerstner",
+    "Boris Maček",
+    "Christian H. Ahrens",
+    "Rolf Backofen",
+    "Cynthia M. Sharma",
+    "Wolfgang R. Hess"
+   ],
+   "first_author": "Lydia Hadjeras",
+   "last_author": "Wolfgang R. Hess",
+   "last_author_affiliation": "",
+   "corresponding_author": "",
+   "corresponding_institution": "",
+   "abstract": "Abstract Cyanobacteria are important primary producers and popular in biotechnology. Synechocystis 6803 is a model cyanobacterium, yet many coding regions are ambiguous, or have remained undetected. Here, we present a riboproteogenomic analysis combining ribosome profiling with inhibitors that stall ribosomes at translation initiation and termination sites, and proteogenomic re-annotation of its genome. Based on proteogenomics, we report translation of 3055 annotated genes (83%), 3492 based on Ribo-seq (95.2%), and 3,018 supported by both methods (82%). The data suggest additional protein-coding genes and corrections for annotated ones. We validate 15 proteins translated from antisense, intergenic and intragenic loci and provide proteogenomic support for up to 69 additional, mostly small proteins. We identify three genes with ~300 nt long intragenic out-of-frame translons and demonstrate that internal and host translons are translated into interacting proteins. Our data are accessible at https://www.bioinf.uni-freiburg.de/~ribobase/ . They illustrate the enormous value of consolidating genome annotations with integrated experimental data.",
+   "url": "https://doi.org/10.1038/s41467-026-79174-5",
+   "type": "journal-article",
+   "version": "",
+   "hits": []
+  },
+  {
+   "doi": "10.1038/s41467-026-79399-4",
+   "title": "Rhizospheric pH mediated thermo-signalling coordinates root growth under heat stress",
+   "journal": "Nature Communications",
+   "date": "2026-11-15",
+   "source": "crossref",
+   "authors": [
+    "Aneesh S. Lale",
+    "Atish Bansod",
+    "Srija Chakraborty",
+    "Erfan Ghafouri",
+    "Jayne L. Davis",
+    "Thanh B. Nghiem",
+    "Feijian Sun",
+    "Brighton Gapare",
+    "Winnie Teh",
+    "Xiangyu Xu",
+    "Lixia Pan",
+    "Aditi N. Borkar",
+    "Lieven De Veylder",
+    "Ranjan Swarup",
+    "Ive De Smet",
+    "Rahul A. Bhosale"
+   ],
+   "first_author": "Aneesh S. Lale",
+   "last_author": "Rahul A. Bhosale",
+   "last_author_affiliation": "",
+   "corresponding_author": "",
+   "corresponding_institution": "",
+   "abstract": "Abstract Heat stress events pose a major threat to global agriculture due to elevated air and soil temperatures. While plant roots regulate their growth in response to elevated soil temperatures, they appear to rely on thermosensory mechanisms distinct from those used by shoots. Here, we report pH as a key component of a thermo-signaling mechanism that regulates temperature-dependent root responses via ROS-mediated control of cell cycle dynamics in Arabidopsis thaliana . At moderately high temperatures, alkalization of meristematic and transition zones increases superoxide (O₂⁻) levels, promoting cell division and root growth. Conversely, higher temperatures inhibit growth by increasing acidification and hydrogen peroxide (H₂O₂) accumulation in these zones. Elevating external pH buffers this acidification, reduces H₂O₂ levels, and confers heat resistance. Our data support that this pH-mediated heat resistance is also effective under soil conditions. The heat-induced pH shifts are controlled by plasma membrane H⁺-ATPases (PM-H⁺-ATPases), which are under the control of the kinases TOT3 and TOI5. Our findings reveal an interesting pathway for plant adaptation to heat stress, linking pH, ROS and root thermomorphogenesis, with major implications for improving plant resilience in warming climates.",
+   "url": "https://doi.org/10.1038/s41467-026-79399-4",
+   "type": "journal-article",
+   "version": "",
+   "hits": []
+  },
+  {
+   "doi": "10.1038/s41467-026-79593-4",
+   "title": "Assembly of a renal countercurrent system in a beetle",
+   "journal": "Nature Communications",
+   "date": "2026-11-15",
+   "source": "crossref",
+   "authors": [
+    "Robin Beaven",
+    "Mila Fafinska",
+    "Jian Dai",
+    "Kenneth V. Halberg",
+    "Barry Denholm"
+   ],
+   "first_author": "Robin Beaven",
+   "last_author": "Barry Denholm",
+   "last_author_affiliation": "",
+   "corresponding_author": "",
+   "corresponding_institution": "",
+   "abstract": "Abstract Countercurrent exchange describes the crossover of some property between two bodies flowing in opposite direction. Countercurrent circuits, which work more efficiently than concurrent circuits, are common in nature and mimicked in human engineering. An example is the beetle cryptonephridial complex (CNC)—a multi-organ water conservation system which makes key contributions to the water budget in a vast number of species. It is even used by some to harvest water from the atmosphere. The system evolved by a radical reorganisation of insect internal anatomy bringing the renal/Malpighian tubules and rectum into countercurrent configuration, and their isolation in a chamber by an unusual tissue of unknown origin—the perinephric membrane. The CNC is richly supplied with tracheae to meet the high metabolic demands of the system. How the CNC is assembled during development is unknown. Here we characterise CNC development in the model beetle Tribolium castaneum and discover the molecular signals orchestrating its assembly. We find that dynamic crosstalk between the developing precursor cells of the rectum, Malpighian tubules, perinephric membrane, and trachea rely on a single, differentially spliced fibroblast growth factor (FGF) receptor and two FGF pathway ligands. We also map the origin of the perinephric membrane to a previously uncharacterised population of mesodermal cells, providing clues to its evolutionary origin. This work illuminates the developmental processes underpinning the reorganisation of the insect internal body plan to assemble a natural countercurrent system, one which is fundamental to beetle physiology, ecology and evolutionary success.",
+   "url": "https://doi.org/10.1038/s41467-026-79593-4",
+   "type": "journal-article",
+   "version": "",
+   "hits": []
+  },
+  {
+   "doi": "10.1158/2159-8290.cd-26-0498",
+   "title": "Latent Squamous Plasticity Licensed by Chromatin-State Remodeling Dictates Therapeutic Susceptibility in Cholangiocarcinoma",
+   "journal": "Cancer Discovery",
+   "date": "2026-11-17",
+   "source": "crossref",
+   "authors": [
+    "Chen Yang",
+    "Nuo Xu",
+    "Shuyi Ji",
+    "Xifu Cheng",
+    "Qian Li",
+    "Haigang Geng",
+    "Yuhan Xia",
+    "Xiujiao Shen",
+    "Zhicheng Liu",
+    "Xupeng Yang",
+    "Lingyi Fu",
+    "Qunlun Shen",
+    "Xin Chen",
+    "Zihan Chen",
+    "Yansong Lin",
+    "Xia Yang",
+    "Rongce Zhao",
+    "Haoyu Zhang",
+    "Jinghan Zhu",
+    "Yan Li",
+    "Chao Leng",
+    "Haiyan Hu",
+    "Hao Feng",
+    "Maolan Li",
+    "Youpei Lin",
+    "Quan Zheng",
+    "Wanguang Zhang",
+    "Xuhui Ma",
+    "Jingping Yun",
+    "Wenxin Qin",
+    "Qiang Gao",
+    "Shuo Li",
+    "Cun Wang"
+   ],
+   "first_author": "Chen Yang",
+   "last_author": "Cun Wang",
+   "last_author_affiliation": "Shanghai Cancer Institute 1 State Key Laboratory of Systems Medicine for Cancer, , Department of Liver Surgery, , Shanghai Jiao Tong University School of Medicine, Shanghai, China.; Renji Hospital 1 State Key Laboratory of Systems Medicine for Cancer, , Department of Liver Surgery, , Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+   "corresponding_author": "",
+   "corresponding_institution": "",
+   "abstract": "Abstract Adenosquamous carcinoma (ASC) in intrahepatic cholangiocarcinoma (iCCA) has long been considered rare (∼1 to 2%), yet its occurrence portends lethal disease progression. In this study, we identify latent squamous plasticity, a transcriptionally primed yet histology-silent state that is quantifiable by a squamous transition potential (STP) index. Approximately 20% to 30% of patients with iCCA can be classified as STP high and experience ASC-like dismal outcomes. Mechanistically, FOS-like 1 (FOSL1) acts as a plasticity trigger, driving a temporally ordered squamous program by reshaping the chromatin landscape. Additionally, it cooperates with p63 in an enhancer-dependent manner to dysregulate PTGS2/COX-2 expression. The resulting intratumoral prostaglandin (PG) E2 accumulation drives neutrophil-mediated FOXP3-negative type I regulatory T-cell (Tr1) polarization and predisposes STP-high tumors to immunotherapy resistance. Through a drug-repurposing screen, we identify celecoxib as a dual-function agent that counteracts latent squamous plasticity while fostering an immunopermissive state, providing a clinically actionable strategy for squamous-biased iCCA now being evaluated in a phase Ib/II trial (NCT07632235). Significance: Latent squamous plasticity defines a common yet histologically occult high-risk state in iCCA, driven by FOSL1-dependent enhancer reprogramming and coupled to a PGE2-dependent neutrophil–Tr1 immunosuppressive circuit. By integrating STP-based stratification with celecoxib repurposing, this study identifies latent squamous plasticity as a clinically actionable vulnerability to improve iCCA treatment responsiveness.",
+   "url": "https://doi.org/10.1158/2159-8290.cd-26-0498",
+   "type": "journal-article",
+   "version": "",
    "hits": [
     "disease"
    ]

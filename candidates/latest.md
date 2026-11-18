@@ -4,30 +4,30 @@ Windows: journals 2026-11-15 to 2026-11-18, preprints 2026-11-15 to 2026-11-17. 
 
 ## Source status
 
-- crossref:Nature: ok, 28 items
+- crossref:Nature: ok, 56 items
 - crossref:Science: ok, 0 items
-- crossref:Cell: ok, 2 items
-- crossref:Nature Methods: ok, 3 items
-- crossref:Nature Biotechnology: ok, 1 items
-- crossref:Nature Genetics: ok, 4 items
-- crossref:Nature Medicine: ok, 3 items
-- crossref:Nature Communications: ok, 62 items
+- crossref:Cell: ok, 4 items
+- crossref:Nature Methods: ok, 6 items
+- crossref:Nature Biotechnology: ok, 3 items
+- crossref:Nature Genetics: ok, 8 items
+- crossref:Nature Medicine: ok, 6 items
+- crossref:Nature Communications: ok, 131 items
 - crossref:Science Advances: ok, 0 items
-- crossref:Nature Cancer: ok, 2 items
-- crossref:Nature Neuroscience: ok, 3 items
-- crossref:Cell Genomics: ok, 1 items
+- crossref:Nature Cancer: ok, 4 items
+- crossref:Nature Neuroscience: ok, 6 items
+- crossref:Cell Genomics: ok, 2 items
 - crossref:Cell Systems: ok, 0 items
-- crossref:Molecular Cell: ok, 5 items
+- crossref:Molecular Cell: ok, 10 items
 - crossref:Cancer Cell: ok, 0 items
-- crossref:Neuron: ok, 2 items
-- crossref:Am J Hum Genet: ok, 1 items
-- crossref:Genome Biology: ok, 5 items
+- crossref:Neuron: ok, 4 items
+- crossref:Am J Hum Genet: ok, 2 items
+- crossref:Genome Biology: ok, 10 items
 - crossref:Genome Research: ok, 0 items
-- crossref:Cancer Discovery: ok, 2 items
-- crossref:NEJM: ok, 1 items
-- pubmed: ok, 95 items
-- biorxiv: ok, 352 items
-- medrxiv: ok, 24 items
+- crossref:Cancer Discovery: ok, 5 items
+- crossref:NEJM: ok, 2 items
+- pubmed: ok, 190 items
+- biorxiv: ok, 704 items
+- medrxiv: ok, 48 items
 
 ## Keyword hits: core / secondary (97)
 
@@ -683,7 +683,7 @@ Background: Cardiovascular-kidney-metabolic (CKM) syndrome reflects shared patho
 - Tags: secondary | n_authors: 15
 Genetic studies of chronic disease typically collapse longitudinal clinical histories into binary case-control outcomes, obscuring disease timing and differences in genetic association patterns across disease transitions. Time-to-event analysis can preserve this information, but rare-variant analysis of post-diagnosis progression is challenged by sparse carrier-events and extensive censoring. We developed GATE-GENE, a scalable gene-based framework that maintains calibration under these conditions. Across 300 onset phenotypes in UK Biobank (UKB), GATE-GENE identified 107 exome-wide significant germline associations involving 89 genes and 67 diseases. Across 95 multi-state trajectories comprising baseline (T0), an upstream disease state (T1) and a downstream disease state (T2), disease onset (T0[->]T1) and subsequent progression (T1[->]T2) showed limited detectable sharing of rare-variant association signals. Progression showed greater concordance of gene-level association signals with downstream phenotypes (T0[->]T2) when the analyses shared T2 events occurring after T1. Removing overlapping downstream events reduced the median correlation between gene-level association signals from...
 
-## Keyword hits: disease only (61)
+## Keyword hits: disease only (62)
 
 ### Tracing the genetic roots of cellular identity in tumors
 - Nature Methods | 2026-11-16 | https://doi.org/10.1038/s41592-026-03291-8
@@ -1100,7 +1100,13 @@ Objective: Osteosarcoma is a rare primary bone cancer of adolescents and young a
 - Tags: disease | n_authors: 4
 Background Accurate characterization of the tumor microenvironment (TME) is crucial for inferring tumor biology, subsequent tumor behavior, and predicting therapeutic response. Current characterization methods are inadequate in capturing the complexity of immune signaling networks, hindering robust clinical decision making. To address this, we have developed FlahyRecovery - an artificial intelligence (AI) and gene expression based immune profiling biomarker, implemented via a supervised classifi...
 
-## No keyword hits (391)
+### Latent Squamous Plasticity Licensed by Chromatin-State Remodeling Dictates Therapeutic Susceptibility in Cholangiocarcinoma
+- Cancer Discovery | 2026-11-17 | https://doi.org/10.1158/2159-8290.cd-26-0498
+- First: Chen Yang | Last: Cun Wang (Shanghai Cancer Institute 1 State Key Laboratory of Systems Medicine for Cancer, , Department of Liver Surgery, , Shanghai Jiao Tong University School of Medicine, Shanghai, China.; Renji Hospital 1 S)
+- Tags: disease | n_authors: 33
+Abstract Adenosquamous carcinoma (ASC) in intrahepatic cholangiocarcinoma (iCCA) has long been considered rare (∼1 to 2%), yet its occurrence portends lethal disease progression. In this study, we identify latent squamous plasticity, a transcriptionally primed yet histology-silent state that is quantifiable by a squamous transition potential (STP) index. Approximately 20% to 30% of patients with iCCA can be classified as STP high and experience ASC-like dismal outcomes. Mechanistically, FOS-like...
+
+## No keyword hits (398)
 
 - Nature | US Supreme Court rebuffs White House effort to cut research grants | last: Dan Garisto | https://doi.org/10.1038/d41586-026-03765-x
 - Nature | Is the sixth great extinction imminent? Scientists must draw on natural history for clues | last: C. Brandon Ogbunugafor | https://doi.org/10.1038/d41586-026-03712-w
@@ -1493,3 +1499,10 @@ Background Accurate characterization of the tumor microenvironment (TME) is cruc
 - medrxiv | Plasma Proteomic Identifies GDF15 as a Candidate Lithium Treatment Response Biomarker in Mild Cognitive Impairment: A Secondary Analysis of the LATTICE Randomized Clinical Trial | last: Karikari, T. K. | https://doi.org/10.64898/2026.11.14.26368038
 - medrxiv | Normative Modeling of Structural and Diffusion MRI for Epilepsy Diagnosis and Classification | last: Sinha, N. | https://doi.org/10.64898/2026.11.14.26368080
 - medrxiv | Changes in Resting-State Functional Network Specialization in Progressive Supranuclear Palsy | last: Pantelyat, A. | https://doi.org/10.64898/2026.11.14.26367857
+- Nature Communications | An ingestible, bio-inspired self-powered electrocapsule for in situ ethanol clearance mitigates systemic and neurobehavioral toxicity | last: Junling Guo | https://doi.org/10.1038/s41467-026-79347-2
+- Nature Communications | Morphogenesis of the muscular ventricular septum is driven by retinoic acid signalling to myocardium | last: Robert G. Kelly | https://doi.org/10.1038/s41467-026-79350-7
+- Nature Communications | Mpox virus replication and drug resistance in the central nervous system of a man with advanced human immunodeficiency virus at autopsy | last: Daniel S. Chertow | https://doi.org/10.1038/s41467-026-79484-8
+- Nature Communications | Coherence and pairing enhancement in a trilayer cuprate with layer-selective charge order | last: Andrea Damascelli | https://doi.org/10.1038/s41467-026-78722-3
+- Nature Communications | A revised genome annotation of the model cyanobacterium Synechocystis based on start and stop codon-enriched ribosome profiling and proteogenomics | last: Wolfgang R. Hess | https://doi.org/10.1038/s41467-026-79174-5
+- Nature Communications | Rhizospheric pH mediated thermo-signalling coordinates root growth under heat stress | last: Rahul A. Bhosale | https://doi.org/10.1038/s41467-026-79399-4
+- Nature Communications | Assembly of a renal countercurrent system in a beetle | last: Barry Denholm | https://doi.org/10.1038/s41467-026-79593-4
