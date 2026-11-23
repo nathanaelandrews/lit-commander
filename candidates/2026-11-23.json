@@ -1,0 +1,1038 @@
+{
+ "generated_at": "2026-11-23T02:42:38+00:00",
+ "windows": {
+  "journals": "2026-11-20 to 2026-11-23",
+  "preprints": "2026-11-20 to 2026-11-22"
+ },
+ "sources": {
+  "crossref:Nature": {
+   "status": "ok",
+   "count": 16
+  },
+  "crossref:Science": {
+   "status": "ok",
+   "count": 0
+  },
+  "crossref:Cell": {
+   "status": "ok",
+   "count": 0
+  },
+  "crossref:Nature Methods": {
+   "status": "ok",
+   "count": 3
+  },
+  "crossref:Nature Biotechnology": {
+   "status": "ok",
+   "count": 0
+  },
+  "crossref:Nature Genetics": {
+   "status": "ok",
+   "count": 1
+  },
+  "crossref:Nature Medicine": {
+   "status": "ok",
+   "count": 2
+  },
+  "crossref:Nature Communications": {
+   "status": "ok",
+   "count": 73
+  },
+  "crossref:Science Advances": {
+   "status": "ok",
+   "count": 88
+  },
+  "crossref:Nature Cancer": {
+   "status": "ok",
+   "count": 2
+  },
+  "crossref:Nature Neuroscience": {
+   "status": "ok",
+   "count": 0
+  },
+  "crossref:Cell Genomics": {
+   "status": "ok",
+   "count": 0
+  },
+  "crossref:Cell Systems": {
+   "status": "ok",
+   "count": 0
+  },
+  "crossref:Molecular Cell": {
+   "status": "ok",
+   "count": 0
+  },
+  "crossref:Cancer Cell": {
+   "status": "ok",
+   "count": 0
+  },
+  "crossref:Neuron": {
+   "status": "ok",
+   "count": 2
+  },
+  "crossref:Am J Hum Genet": {
+   "status": "ok",
+   "count": 1
+  },
+  "crossref:Genome Biology": {
+   "status": "ok",
+   "count": 5
+  },
+  "crossref:Genome Research": {
+   "status": "ok",
+   "count": 0
+  },
+  "crossref:Cancer Discovery": {
+   "status": "ok",
+   "count": 3
+  },
+  "crossref:NEJM": {
+   "status": "ok",
+   "count": 4
+  },
+  "pubmed": {
+   "status": "ok",
+   "count": 126
+  },
+  "biorxiv": {
+   "status": "ok",
+   "count": 151
+  },
+  "medrxiv": {
+   "status": "ok",
+   "count": 17
+  }
+ },
+ "n_items": 32,
+ "items": [
+  {
+   "doi": "10.1038/d41586-026-03789-3",
+   "title": "Net zero emissions won’t reverse climate change — some nations look to ‘net negative’",
+   "journal": "Nature",
+   "date": "2026-11-20",
+   "source": "crossref",
+   "authors": [
+    "James Dinneen"
+   ],
+   "first_author": "James Dinneen",
+   "last_author": "James Dinneen",
+   "last_author_affiliation": "",
+   "corresponding_author": "",
+   "corresponding_institution": "",
+   "abstract": "",
+   "url": "https://doi.org/10.1038/d41586-026-03789-3",
+   "type": "journal-article",
+   "version": "",
+   "hits": []
+  },
+  {
+   "doi": "10.1038/s41467-026-79485-7",
+   "title": "Heparan sulfate sulfatases are essential for the patterning of human stem cell-derived midbrain dopaminergic neurons",
+   "journal": "Nature Communications",
+   "date": "2026-11-22",
+   "source": "crossref",
+   "authors": [
+    "Chiara Tremolanti",
+    "Carmen Abaurre",
+    "Yu-Chun Chien",
+    "Luke F. Gamon",
+    "Conor William Mitchell",
+    "Evelyne Gout",
+    "Eneritz Agirre",
+    "Guochang Lyu",
+    "Richard Karlsson",
+    "Michael J. Davies",
+    "Gonçalo Castelo-Branco",
+    "Romain R. Vivès",
+    "Carmen Saltó",
+    "Ulrika Marklund",
+    "Rebecca L. Miller",
+    "Jeremy E. Turnbull",
+    "Ernest Arenas"
+   ],
+   "first_author": "Chiara Tremolanti",
+   "last_author": "Ernest Arenas",
+   "last_author_affiliation": "",
+   "corresponding_author": "",
+   "corresponding_institution": "",
+   "abstract": "Abstract Midbrain dopaminergic neurons (mDA) are selectively lost in Parkinson’s disease, driving sustained efforts to generate bona fide mDA neurons from human-induced pluripotent stem cells (iPSCs) for replacement therapy. While morphogen gradients and transcription factors have been extensively studied, extracellular regulators remain largely overlooked. Here, we identify the heparan sulfate-modifying enzymes SULF1 and SULF2 as essential for establishing mDA neuron identity in vitro. Using CRISPR/Cas9-engineered iPSCs, we show that loss of SULF1/2 increases 6-O-sulfated heparan sulfate species and disrupts patterning both at the anteroposterior and dorsoventral axes in human iPSC-derived mDA cultures. Double-knockout cells thus fail to acquire ventral midbrain fates and instead adopt hindbrain, spinal cord and neural crest-like identities as revealed by single-nucleus RNA sequencing. Mechanistically, we partially explain the changed patterning to aberrant FGF signaling and demonstrate that FGF inhibition redirects cells toward midbrain fates, however without restoring ventral identity. These findings establish a critical role for SULF1/2 in mDA neuron in vitro differentiation and uncover a previously unrecognized layer of extracellular control over neural patterning.",
+   "url": "https://doi.org/10.1038/s41467-026-79485-7",
+   "type": "journal-article",
+   "version": "",
+   "hits": [
+    "core",
+    "secondary"
+   ]
+  },
+  {
+   "doi": "10.1038/s41467-026-79404-w",
+   "title": "A quantitative deep-learning-based framework reveals a continuum of chromatin sensitivities across transcription factors",
+   "journal": "Nature Communications",
+   "date": "2026-11-22",
+   "source": "crossref",
+   "authors": [
+    "Lukas Burger",
+    "Noa Gil",
+    "Dirk Schübeler"
+   ],
+   "first_author": "Lukas Burger",
+   "last_author": "Dirk Schübeler",
+   "last_author_affiliation": "",
+   "corresponding_author": "",
+   "corresponding_institution": "",
+   "abstract": "",
+   "url": "https://doi.org/10.1038/s41467-026-79404-w",
+   "type": "journal-article",
+   "version": "",
+   "hits": []
+  },
+  {
+   "doi": "10.1038/s41467-026-79507-4",
+   "title": "Super-resolution microscopy reveals distinct epigenetic states regulated by estrogen receptor activity",
+   "journal": "Nature Communications",
+   "date": "2026-11-22",
+   "source": "crossref",
+   "authors": [
+    "Tara Akhshi",
+    "Shengen Shawn Hu",
+    "Esme Wheeler",
+    "Christian Hellriegel",
+    "Douglas S. Richardson",
+    "Nicole Cayting",
+    "Nicole A. Traphagen",
+    "Wangu Mvula",
+    "Buraq Ahmed",
+    "Anne Tie",
+    "Rinath Jeselsohn",
+    "Chongzhi Zang",
+    "Myles Brown"
+   ],
+   "first_author": "Tara Akhshi",
+   "last_author": "Myles Brown",
+   "last_author_affiliation": "",
+   "corresponding_author": "",
+   "corresponding_institution": "",
+   "abstract": "",
+   "url": "https://doi.org/10.1038/s41467-026-79507-4",
+   "type": "journal-article",
+   "version": "",
+   "hits": []
+  },
+  {
+   "doi": "10.1038/s41467-026-79344-5",
+   "title": "Desmin filaments extend along actin filaments within the mouse skeletal muscle sarcomere",
+   "journal": "Nature Communications",
+   "date": "2026-11-22",
+   "source": "crossref",
+   "authors": [
+    "Sunu Joseph",
+    "Joon-Hyuk Ko",
+    "Nitsan Dahan",
+    "Tali Dadosh",
+    "Hana K. Pak",
+    "Jonathan A. Kirk",
+    "Wonho Jhe",
+    "Shenhav Shemer"
+   ],
+   "first_author": "Sunu Joseph",
+   "last_author": "Shenhav Shemer",
+   "last_author_affiliation": "",
+   "corresponding_author": "",
+   "corresponding_institution": "",
+   "abstract": "Abstract Although desmin intermediate filaments are critical for muscle architecture and homeostasis, their spatial 3D organization remains elusive. Their known localization to sarcomeric Z-lines delimits the periodic array of actin and myosin filaments. Here, using d STORM and SIM sub-diffraction resolution microscopy, we resolve the spatial 3D organization of desmin filaments within mouse skeletal muscle, and reveal they are not confined to Z-lines. Our reconstruction reveals that desmin intermediate filaments extend from Z-lines into the sarcomere interior, where they align with actin filaments. Functional assays show that disrupting desmin filament assembly in normal male mouse muscle using a dominant negative inhibitor of desmin selectively reduces active tension at longer sarcomere lengths, indicating a role for desmin in sarcomere mechanics. These findings expand the structural model of the muscle sarcomere and support a role for desmin in force production.",
+   "url": "https://doi.org/10.1038/s41467-026-79344-5",
+   "type": "journal-article",
+   "version": "",
+   "hits": []
+  },
+  {
+   "doi": "10.1038/s41467-026-79707-y",
+   "title": "Denitrogenative glycosylations of glycosyl sulfonohydrazides",
+   "journal": "Nature Communications",
+   "date": "2026-11-22",
+   "source": "crossref",
+   "authors": [
+    "Shiyin Zhao",
+    "Shuai Chen",
+    "Han Ma",
+    "Yong Nian",
+    "Bo Yang",
+    "Feng Zhu"
+   ],
+   "first_author": "Shiyin Zhao",
+   "last_author": "Feng Zhu",
+   "last_author_affiliation": "",
+   "corresponding_author": "",
+   "corresponding_institution": "",
+   "abstract": "",
+   "url": "https://doi.org/10.1038/s41467-026-79707-y",
+   "type": "journal-article",
+   "version": "",
+   "hits": []
+  },
+  {
+   "doi": "10.1038/s41467-026-79723-y",
+   "title": "Foliar and floral frost damage reshape reproductive phenology with limited carry-over effects",
+   "journal": "Nature Communications",
+   "date": "2026-11-22",
+   "source": "crossref",
+   "authors": [
+    "Jianhong Lin",
+    "Nicolas Delpierre",
+    "Cyrille Rathgeber",
+    "Hai Ren",
+    "Jian-Guo Huang",
+    "Frank Berninger",
+    "Xiaobo Li",
+    "Qianqian Ma"
+   ],
+   "first_author": "Jianhong Lin",
+   "last_author": "Qianqian Ma",
+   "last_author_affiliation": "",
+   "corresponding_author": "",
+   "corresponding_institution": "",
+   "abstract": "Abstract Late spring frost is an intensifying climatic disturbance, yet how frost damage to different organs (leaves and flowers) reshapes reproductive phenology and generates carry-over effects remains unclear. Using 259,732 phenological observations across eight European woody species spanning 1950–2024, we show that foliar frost damage shortened the fruit development period (FDP; the interval from flowering to fruit maturity) by 1.6 days, driven by delayed flowering and advanced fruit maturity. Conversely, floral frost damage prolonged FDP by 1.3 days through delayed fruit maturity, with both effects strengthening under greater frost severity. Accounting for anomalously warm conditions in the frost year substantially reduced the estimated delays in flowering and subsequent-year phenology, indicating that neglecting climatic context leads to overestimation of frost effects. These findings reveal organ-specific pathways through which frost damage reshapes reproductive phenology while generating limited carry-over effects, refining current understanding of phenological responses under climate change.",
+   "url": "https://doi.org/10.1038/s41467-026-79723-y",
+   "type": "journal-article",
+   "version": "",
+   "hits": []
+  },
+  {
+   "doi": "10.1038/s41467-026-79465-x",
+   "title": "The genetic and proteomic determinants of pediatric stature development and their link to adult height and type 2 diabetes",
+   "journal": "Nature Communications",
+   "date": "2026-11-22",
+   "source": "crossref",
+   "authors": [
+    "N. Fragoso-Bargas",
+    "AE Lupu",
+    "I. Campillo-Pereda",
+    "Y. Huang",
+    "J. Sundfjord",
+    "R. Karimi",
+    "T. Lind",
+    "JC Holm",
+    "LA Holm",
+    "A. Havdahl",
+    "OA Andreassen",
+    "S. O’Rahilly",
+    "P. Sole-Navais",
+    "B. Jacobsson",
+    "E. Bratland",
+    "G. Davey Smith",
+    "PB Juliusson",
+    "KK Ong",
+    "T. Hansen",
+    "PR Njølstad",
+    "M. Vaudel",
+    "S. Johansson"
+   ],
+   "first_author": "N. Fragoso-Bargas",
+   "last_author": "S. Johansson",
+   "last_author_affiliation": "",
+   "corresponding_author": "",
+   "corresponding_institution": "",
+   "abstract": "Abstract Stature is a key indicator of pediatric health, yet the molecular and metabolic architecture governing childhood growth remains incompletely defined. We conduct genome-wide association analyses of stature from birth to childhood (574,580 measurements; 72,704 Norwegian children) and integrate UK Biobank data (age 10 and adulthood). We uncover life-stage shifts in the genetics of stature, identifying previously not identified childhood-specific effects including variants near GLP1R with BMI-independent effects, and reveal three temporal clusters - Infancy and Childhood clusters enriched for endocrine and metabolic pathways, and a Lifetime growth cluster enriched for skeletal biology. Proteome analysis reveals that prepubertal height is associated with widespread changes in the circulation, identifying 106 height-associated proteins and linking IGF1, IGF2, and IGFBP3 levels to childhood-height polygenic scores. Mendelian randomization shows that reduced fetal growth and taller prepubertal height increase type 2 diabetes risk, independent of adult stature. These findings uncover developmental stage-specific genetic and proteomic influences on child-growth and links to adult metabolic health.",
+   "url": "https://doi.org/10.1038/s41467-026-79465-x",
+   "type": "journal-article",
+   "version": "",
+   "hits": [
+    "secondary"
+   ]
+  },
+  {
+   "doi": "10.1038/s41467-026-79400-0",
+   "title": "Benzoxaboroles target CPSF3 for degradation through a SUMO-dependent pathway in trypanosomes",
+   "journal": "Nature Communications",
+   "date": "2026-11-22",
+   "source": "crossref",
+   "authors": [
+    "Ning Zhang",
+    "Farnaz Zahedifard",
+    "Abdul Samad",
+    "Simone Altmann",
+    "Melanie Ridgway",
+    "Richard J. Wall",
+    "Michele Tinti",
+    "Eric C. Schirmer",
+    "David Horn",
+    "Martin Zoltner",
+    "Mark C. Field"
+   ],
+   "first_author": "Ning Zhang",
+   "last_author": "Mark C. Field",
+   "last_author_affiliation": "",
+   "corresponding_author": "",
+   "corresponding_institution": "",
+   "abstract": "Abstract Benzoxaboroles (BoBs) such as acoziborole feature a boron-heterocyclic core and are an important innovation in the development of drugs against a range of pathogens and other pathologies. A broad pharmacological spectrum is associated with chemically diverse BoB derivatives, including multiple modes-of-action (MoA) and molecular targets. However, a consensus MoA for BoBs targeting evolutionarily diverse protozoan pathogens has emerged, with identification of CPSF3 in the CPSF complex as a target in both apicomplexan and kinetoplastida parasites. Here, using comprehensive genetic screens in Trypanosoma brucei , we establish a functional connection between the boron-heterocyclic scaffold shared by all BoBs and protein sumoylation genes. We observe a rapid, transient increase in global protein sumoylation following BoB exposure. While we do not observe direct CPSF3 sumoylation, we find that acoziborole and other BoBs rapidly and specifically destabilise CPSF3 in a SUMO- and proteasome-dependent manner.",
+   "url": "https://doi.org/10.1038/s41467-026-79400-0",
+   "type": "journal-article",
+   "version": "",
+   "hits": [
+    "secondary"
+   ]
+  },
+  {
+   "doi": "10.1038/s41467-026-79559-6",
+   "title": "Electrically induced glass transition of polyelectrolyte complexes enables kinetic ionic diodes",
+   "journal": "Nature Communications",
+   "date": "2026-11-22",
+   "source": "crossref",
+   "authors": [
+    "Chankyu Kim",
+    "Chan-Hyuk Jeon",
+    "Jowon Shin",
+    "Younghoon Kim",
+    "Owen A. Lee",
+    "Ryan C. Hayward",
+    "Hyeong Jun Kim"
+   ],
+   "first_author": "Chankyu Kim",
+   "last_author": "Hyeong Jun Kim",
+   "last_author_affiliation": "",
+   "corresponding_author": "",
+   "corresponding_institution": "",
+   "abstract": "",
+   "url": "https://doi.org/10.1038/s41467-026-79559-6",
+   "type": "journal-article",
+   "version": "",
+   "hits": []
+  },
+  {
+   "doi": "10.1186/s13059-026-04358-7",
+   "title": "Benchmarking of haplotype- and clone-specific detection callers of complex copy number alterations in single-cell DNA sequencing with HCDSIM and HCBench",
+   "journal": "Genome Biology",
+   "date": "2026-11-23",
+   "source": "crossref",
+   "authors": [
+    "Xikang Feng",
+    "Anna Jiang",
+    "Sisi Peng",
+    "Qiangguo Jin",
+    "Liang He",
+    "Lingxi Chen"
+   ],
+   "first_author": "Xikang Feng",
+   "last_author": "Lingxi Chen",
+   "last_author_affiliation": "",
+   "corresponding_author": "",
+   "corresponding_institution": "",
+   "abstract": "",
+   "url": "https://doi.org/10.1186/s13059-026-04358-7",
+   "type": "journal-article",
+   "version": "",
+   "hits": [
+    "core"
+   ]
+  },
+  {
+   "doi": "10.64898/2026.11.12.766320",
+   "title": "Deciphering the role of adenosine-related genes in regulating smooth muscle cell phenotypic switch in coronary heart disease via single-cell RNA sequencing",
+   "journal": "biorxiv",
+   "date": "2026-11-21",
+   "source": "biorxiv",
+   "authors": [
+    "cao, k. k.",
+    "Su, K.",
+    "Wang, R.",
+    "Qu, Y.",
+    "Zhang, X.",
+    "Xie, Z.",
+    "Ma, X.",
+    "Ma, H.",
+    "Wang, N.",
+    "Li, Z.",
+    "Cui, L.",
+    "Wang, X.",
+    "Zhang, l."
+   ],
+   "first_author": "cao, k. k.",
+   "last_author": "Zhang, l.",
+   "last_author_affiliation": "",
+   "corresponding_author": "Ke Su",
+   "corresponding_institution": "Department of Cardiology,The 941th Hospital of Joint Logistic Support Force of Chinese People?s Liberation Army,XiNing, China.",
+   "abstract": "Background: Coronary heart disease (CHD) is closely associated with dysregulated lipid metabolism, inflammation, and impaired adenosine signaling. However, the contribution of adenosine-related genes (ARGs) and their relationship with the immune microenvironment remain unclear. Methods: Public transcriptomic datasets were integrated with curated ARGs. Differential expression analysis and weighted gene co-expression network analysis identified candidate genes, and XGBoost, support vector machine-recursive feature elimination, and Boruta were used to select diagnostic features. Gene set enrichment, immune infiltration, regulatory-network, and single-cell RNA-sequencing analyses were performed, followed by reverse transcription-quantitative polymerase chain reaction validation. Results: We identified 4,884 differentially expressed genes and 243 ARG-associated module genes, yielding 231 candidate genes. DYRK2 and SIGIRR were prioritized as key genes and were consistently downregulated in bulk CHD datasets, including the validation cohort. A two-gene nomogram showed strong diagnostic performance. Functional analyses linked both genes to mitochondrial dysfunction and innate immune regulation, while immune profiling indicated reduced adaptive immune populations and enhanced myeloid-associated inflammation. Single-cell analysis identified smooth muscle cells as a key compartment with altered DYRK2 and SIGIRR expression along pseudotime trajectories and remodeling of vascular endothelial growth factor and pleiotrophin signaling. Reverse transcription-quantitative polymerase chain reaction in clinical samples (n = 5 per group) supported the bioinformatic expression trends (P < 0.05). Conclusions: DYRK2 and SIGIRR emerged as key adenosine-related genes associated with immune-metabolic imbalance and smooth muscle cell dysfunction in CHD. These findings provide a basis for further mechanistic and translational validation.",
+   "url": "https://doi.org/10.64898/2026.11.12.766320",
+   "type": "immunology",
+   "version": "1",
+   "hits": [
+    "core"
+   ]
+  },
+  {
+   "doi": "10.64898/2026.11.19.767541",
+   "title": "Training background shapes the exercise-induced extracellular vesicle proteome to acute exercise with partial overlap with cold exposure in humans",
+   "journal": "biorxiv",
+   "date": "2026-11-21",
+   "source": "biorxiv",
+   "authors": [
+    "Tischer, D.",
+    "Braunsperger, A.",
+    "Schranner, D.",
+    "Kallabis, S.",
+    "Jost, P. J.",
+    "Hasenauer, J.",
+    "Meissner, F.",
+    "Wackerhage, H.",
+    "Soriano-Arroquia, A."
+   ],
+   "first_author": "Tischer, D.",
+   "last_author": "Soriano-Arroquia, A.",
+   "last_author_affiliation": "",
+   "corresponding_author": "Ana Soriano-Arroquia",
+   "corresponding_institution": "Institute of Pharmacology and Toxicology, Biomedical Center, University Hospital, University of Bonn, Venusberg Campus 1, 53105 Bonn, Germany.",
+   "abstract": "Aim: Exercise and cold exposure changes circulating extracellular vesicle (EV) and modifies their molecular cargo. However, it remains unclear whether the acute exercise-induced EV proteome response is uniform or shaped by long-term training background, and to what extent it overlaps with the response to cold exposure. We therefore performed an exploratory proteomics study in humans with distinct training phenotypes and compared exercise-induced protein changes with an independent cold exposure dataset. Methods: Serum samples were collected before and immediately after a maximal bicycle ramp test from untrained sedentary controls, endurance-trained athletes, natural bodybuilders, and sprinters. For cold exposure studies, serum samples were collected before, immediately after, and 30 minutes after an ice bath (8-12 degree Celsius) for 5 minutes. EVs were isolated by differential ultracentrifugation and characterized using electron microscopy and nanoparticle tracking analysis. EV proteomics was analyzed by LC-MS/MS. Differential relative protein abundance was assessed within each training group. Shared significance, concordant directionality, functional enrichment, and comparison with the independent cold-water immersion cohort were analysed. Results: Acute exercise altered the serum EV-enriched proteome in all training groups, but the response differed substantially between groups. Sprinters showed the largest number of altered proteins, whereas endurance athletes, bodybuilders, and sedentary controls displayed more selective responses. Few proteins were significantly altered across multiple groups, although a broader set showed concordant directional changes, indicating a limited shared response superimposed on training background-specific remodeling. Functional enrichment highlighted extracellular vesicle and extracellular compartment signatures together with immune, adhesion, trafficking, and stress-response pathways. Cold exposure also induced time-dependent remodeling of the serum EV-enriched proteome, with the largest number of altered proteins observed 30 minutes after exposure. Comparison of the immediate cold response with exercise revealed partial directional overlap, particularly with endurance exercise, but also clear stimulus-specific differences. Conclusion: Our results suggest that changes in the EV proteome profiling after acute exercise are highly dependent on the training background in humans. Rather than revealing a single universal EV protein signature, acute exercise produced group-specific EV proteome remodeling together with a smaller layer of shared directional trends. The comparison with cold exposure supports the concept that acute physiological stressors can remodel concomitant circulating EV protein profiles, while also producing stimulus-specific signatures.",
+   "url": "https://doi.org/10.64898/2026.11.19.767541",
+   "type": "molecular biology",
+   "version": "1",
+   "hits": []
+  },
+  {
+   "doi": "10.64898/2026.11.19.767734",
+   "title": "Dual mRNA delivery corrects physical and biochemical deficits in a mouse model of hepatic onset trifunctional protein deficiency",
+   "journal": "biorxiv",
+   "date": "2026-11-21",
+   "source": "biorxiv",
+   "authors": [
+    "von Beck, T.",
+    "Terranova, T.",
+    "Marayati, B. F.",
+    "Zhang, H.",
+    "Zhu, L.",
+    "Li, S.",
+    "Donald, B. R.",
+    "Young, S. P.",
+    "Lindsay, M.",
+    "Todd, C. A.",
+    "Koeberl, D. D."
+   ],
+   "first_author": "von Beck, T.",
+   "last_author": "Koeberl, D. D.",
+   "last_author_affiliation": "",
+   "corresponding_author": "Troy von Beck",
+   "corresponding_institution": "Duke University",
+   "abstract": "Mitochondrial trifunctional protein deficiency (TFP-D) is a rare, life threatening long-chain fatty acid oxidation disorder caused by variants in either the HADHA or HADHB subunits, leading to toxic metabolite accumulation and systemic energy deficiency. Current dietary management strategies are only partially effective and fail to prevent long term morbidity and mortality. Here, we developed a lipid nanoparticle (LNP) mediated mRNA replacement strategy to restore TFP function in a moderate severity TFP-D mouse model by delivering both Hadha and Hadhb mRNA. In cultured TFP-D mouse fibroblasts, dual mRNA delivery, but not single subunit replacement, rescued long-chain fatty acid oxidation and revealed a dominant negative effect exerted by the endogenous M404K variant Hadhb. In vivo, intravenous administration of dual mRNA-LNPs restored hepatic TFP expression, reduced circulating long-chain acylcarnitines, and improved physiological performance in aged TFP-D mice. Notably, intravenous delivery of dual mRNA LNPs significantly rescued cold tolerance test (CTT) performance by up to 71.6% compared to untreated and healthy controls. Together, these findings establish dual subunit LNP-mRNA delivery as a promising therapeutic strategy for TFP-D and support its potential applicability to other long-chain fatty acid oxidation disorders.",
+   "url": "https://doi.org/10.64898/2026.11.19.767734",
+   "type": "genetics",
+   "version": "1",
+   "hits": []
+  },
+  {
+   "doi": "10.64898/2026.11.17.767465",
+   "title": "MicroBioAgent: an AI agent for automated microbiome analysis",
+   "journal": "biorxiv",
+   "date": "2026-11-21",
+   "source": "biorxiv",
+   "authors": [
+    "Li, Z.",
+    "WANG, J.",
+    "Wang, C.",
+    "Ding, Y.",
+    "Zhang, L."
+   ],
+   "first_author": "Li, Z.",
+   "last_author": "Zhang, L.",
+   "last_author_affiliation": "",
+   "corresponding_author": "Lu Zhang",
+   "corresponding_institution": "Hong Kong Baptist University",
+   "abstract": "Microbiome data analysis demands customized workflows tailored to specific biological questions, sequencing modalities, and data properties. However, constructing and executing these workflows requires navigating heterogeneous software dependencies, reference databases, and multi-step parameter tuning. Here, we present MicroBioAgent, an autonomous, domain-specific agent framework that translates high-level biological queries into executable, study-specific pipelines across 16S rRNA amplicon, reference-based shotgun, and de novo assembly-based metagenomics. Rather than relying on static pipeline templates, MicroBioAgent employs a closed-loop execution architecture: it dynamically selects and runs bioinformatics tools within user-controlled environments while iteratively inspecting intermediate outputs to adapt downstream analytical decisions. Furthermore, to address the long-running nature of metagenomic computation, we introduce an asynchronous background task-management mechanism that reduces LLM token consumption by over 50% while enabling real-time plan adjustment and automated workflow resumption. We systematically evaluated MicroBioAgent across three benchmarks of increasing complexity: (1) paired amplicon and shotgun profiling of tomato rhizosphere microbiomes, (2) taxonomic and functional profiling coupled with machine-learning classification in a colorectal cancer cohort, and (3) de novo metagenomic assembly, metagenome-assembled genome (MAG) binning, and metabolic pathway reconstruction in a polyethylene degradation study. Across all benchmarks, MicroBioAgent faithfully recapitulated the primary biological findings of the original studies, exhibiting high analytical concordance despite expected tool- and database-dependent variations. In systematic robustness evaluations across 27 independent runs spanning three backbone large language models and three prompt-complexity tiers, MicroBioAgent achieved a 98.8% task completion rate and yielded highly reproducible diversity and differential-abundance estimates. MicroBioAgent establishes a scalable, adaptive paradigm for end-to-end computational microbiome research.",
+   "url": "https://doi.org/10.64898/2026.11.17.767465",
+   "type": "bioinformatics",
+   "version": "1",
+   "hits": [
+    "disease"
+   ]
+  },
+  {
+   "doi": "10.64898/2026.11.18.767742",
+   "title": "RADSuite: Improving Species-Level Identification in Microbiome Research",
+   "journal": "biorxiv",
+   "date": "2026-11-21",
+   "source": "biorxiv",
+   "authors": [
+    "Christensen, R. N.",
+    "Gilliland, M.",
+    "Young, J.",
+    "Manning-Neal, R.",
+    "Fan, H.",
+    "Lu, S.",
+    "Payne, S.",
+    "Johnson, W. E."
+   ],
+   "first_author": "Christensen, R. N.",
+   "last_author": "Johnson, W. E.",
+   "last_author_affiliation": "",
+   "corresponding_author": "W. Evan Johnson",
+   "corresponding_institution": "Center for Data Science, Division of Infectious Diseases, Rutgers New Jersey Medical School",
+   "abstract": "In the last twenty years, the microbiome has become a central focus of biomedical research, with amplicon sequencing of the 16S rRNA gene considered the industry standard for taxon identification of prokaryotes due to its cost-effectiveness. However, common target regions in 16S amplicons often do not uniquely distinguish closely related species, restricting many analyses to the genus level. Additionally, curated databases such as NCBI's 16S curated database often do not contain all intragenomic variants of the 16S gene and lack annotation of the 16S genomic composition and gene structure. To address these limitations, our team created RADSuite, a collection of tools which includes a more robust database of 16S gene copies (RADlib), an application that identifies which V regions will allow for species level identification (RADx), and a step-by-step guide for how to integrate RADlib within existing metagenomic profiling software tools. Here we demonstrate the utility of using RADSuite as a guide for designing 16S amplicon sequencing experiments. For example, RADx can be used to recommend 16S components that enable species-level resolution for most microbes of interest, even when industry-standard default amplicon choices (V3/V4) are insufficient. These findings suggest that targeted variable region selection is critical for reliable species identification. As researchers use RADSuite to improve the quality of their experiments, we anticipate improved experimental accuracy in fields of microbiome research from human health to environmental conservation.",
+   "url": "https://doi.org/10.64898/2026.11.18.767742",
+   "type": "bioinformatics",
+   "version": "1",
+   "hits": []
+  },
+  {
+   "doi": "10.64898/2026.11.14.765729",
+   "title": "Macrophage signaling history constrains subsequent transcriptional responses to cytokine stimulation",
+   "journal": "biorxiv",
+   "date": "2026-11-21",
+   "source": "biorxiv",
+   "authors": [
+    "Hochfelder, J. B.",
+    "McGinn, R. A.",
+    "Gunnarsson, C.",
+    "Gong, D. N.",
+    "Bryson, B. D."
+   ],
+   "first_author": "Hochfelder, J. B.",
+   "last_author": "Bryson, B. D.",
+   "last_author_affiliation": "",
+   "corresponding_author": "Bryan D Bryson",
+   "corresponding_institution": "Department of Biological Engineering, Massachusetts Institute of Technology",
+   "abstract": "Macrophages perform a wide array of distinct and crucial functions, and therefore tightly regulate their responses to external stimuli. These cells must integrate sequential signals over time to mount an appropriate response to their immunological niche. How prior cytokine stimulation shares macrophage responses to a subsequent stimulus remains poorly understood, yet has important implications for pathogen clearance as well as tissue repair and homeostasis. Here, we systematically characterize transcriptional responses to sequential cytokine stimulation in primary human macrophages, as well as demonstrate the effect of interactions with bacterial pathogens on macrophage transcriptional responses and plasticity. We find that prior stimulation history constrains subsequent transcriptional responses in a stimulus-specific and asymmetric manner. Across the cytokines we tested, we observe that IFN{beta} is a dominant regulator of subsequent responses to other cytokines. We observe that this plasticity restriction is concentration dependent, rapidly established, and persists after cytokine removal. Additionally, we show that endogenous IFN{beta} produced during infection with Mycobacterium tuberculosis restricts subsequent cytokine responses in a manner that is dependent on the activity of the bacterial secretion system ESX-1. Taken together, these findings establish a hierarchical model of macrophage responses to cytokines that depends on cytokine identity and order.",
+   "url": "https://doi.org/10.64898/2026.11.14.765729",
+   "type": "systems biology",
+   "version": "1",
+   "hits": []
+  },
+  {
+   "doi": "10.64898/2026.11.20.768232",
+   "title": "Astrocyte-secreted Cathepsin D regulates hippocampal memory through extracellular matrix remodeling",
+   "journal": "biorxiv",
+   "date": "2026-11-21",
+   "source": "biorxiv",
+   "authors": [
+    "Kim, H.",
+    "Cha, S.",
+    "Ji, M.",
+    "Kim, G. H.",
+    "Shin, S. A.",
+    "Lee, S. E.",
+    "Lee, K. J.",
+    "Lee, S.-W.",
+    "Chae, S.",
+    "Park, H."
+   ],
+   "first_author": "Kim, H.",
+   "last_author": "Park, H.",
+   "last_author_affiliation": "",
+   "corresponding_author": "Hyungju Park",
+   "corresponding_institution": "Korea Brain Research Institute (KBRI)",
+   "abstract": "Astrocytes contribute to hippocampal cognitive functions, but how astrocyte-derived factors regulate memory formation remains unclear. Here, we identify astrocyte-secreted Cathepsin D (CtsD) as a regulator of hippocampal learning and memory. Proteomic profiling of hippocampal astrocytes upon learning identified candidates predicted to be secreted, among which we focused on CtsD, whose extracellular brain functions are unknown. Neutralizing extracellular CtsD or astrocyte-selective CtsD knockdown (aCtsD-KD) impaired hippocampal long term potentiation (LTP) and memory acquisition, suggesting an extracellular role for astrocytic CtsD. In aCtsD-KD mice, these deficits were accompanied by alterations in excitatory transmission and synaptic structures. aCtsD-KD also caused abnormal extracellular matrix (ECM) accumulation, and its partial digestion by chondroitinase ABC rescued the memory deficit, indicating that astrocytic CtsD-dependent ECM degradation contributes to hippocampal memory. Together, our findings suggest a CtsD-dependent astrocyte-matrix-synapse axis regulating hippocampal memory.",
+   "url": "https://doi.org/10.64898/2026.11.20.768232",
+   "type": "neuroscience",
+   "version": "1",
+   "hits": []
+  },
+  {
+   "doi": "10.64898/2026.11.16.767117",
+   "title": "Remarkable Biosynthetic Diversity in the Bionectriaceae: Uncovering the genomic basis of antipathogen bioactivity of cacao fungal endophytes Clonostachys rosea and Waltergamsia zeylanica.",
+   "journal": "biorxiv",
+   "date": "2026-11-22",
+   "source": "biorxiv",
+   "authors": [
+    "Atencio, L. A.",
+    "Castillo, H. E.",
+    "Barrios-Jaen, M.",
+    "Quintero, I.",
+    "Martinez, A.",
+    "Rodriguez, C.",
+    "Gutierrez, M.",
+    "Mejia, L. C."
+   ],
+   "first_author": "Atencio, L. A.",
+   "last_author": "Mejia, L. C.",
+   "last_author_affiliation": "",
+   "corresponding_author": "Librada Antonia Atencio",
+   "corresponding_institution": "Instituto de Investigaciones Cientificas y Servicios de Alta Tecnologia de Panama",
+   "abstract": "Cacao (Theobroma cacao) production in tropical countries is threatened by fungal diseases caused by Moniliophthora roreri and M. perniciosa. Two cacao pod endophytes from Bionectriaceae, Clonostachys rosea TCF417 and Waltergamsia zeylanica TCF400, exhibit growth antagonism towards M. roreri; however, the genetic basis underlying the bioactivity of these strains has not been addressed. Here, we aimed to identify biosynthetic gene clusters (BGCs) potentially associated with the antifungal bioactivity of these two strains and performed a comparative analysis with 30 publicly available Bionectriaceae genomes using BiG-SCAPE. Whole-genome sequencing using Oxford Nanopore and Illumina technologies, resulted in assemblies of 52.9 Mb (C. rosea TCF417) and 31 Mb (W. zeylanica TCF400). Genome annotation was conducted using Funannotate, and secondary metabolite BGCs were predicted using antiSMASH. The two cacao endophytes harbored 92 BGCs (C. rosea: 67; W. zeylanica: 25), indicating remarkable biosynthetic diversity. Across all 32 genomes, 1,523 BGC-containing regions were identified, most belonging to T1PKS clusters. Network-based clustering revealed 209 gene cluster families (GCFs), of which 52 corresponded to previously characterized BGCs. Conserved BGCs for antifungal compounds, including sorbicillinoids and verticillins, were identified in cacao endophytes and across Bionectriaceae. Additionally, an antifungal assay conducted here demonstrated that verticillin D from C. rosea TCF417 exhibited growth inhibition of plant pathogens Moniliophthora roreri and Mycena citricolor. With about 75% of unassigned GCFs, our results reveal a largely untapped biosynthetic repertoire in the Bionectriaceae and identify verticillin D as a candidate contributor to the antagonism of C. rosea against plant pathogens.",
+   "url": "https://doi.org/10.64898/2026.11.16.767117",
+   "type": "genomics",
+   "version": "1",
+   "hits": [
+    "core"
+   ]
+  },
+  {
+   "doi": "10.64898/2026.11.20.768059",
+   "title": "Xist deletion in T cells protects against influenza-induced lung injury",
+   "journal": "biorxiv",
+   "date": "2026-11-22",
+   "source": "biorxiv",
+   "authors": [
+    "Valero-Pacheco, N.",
+    "Forsyth, K. S.",
+    "Toothacre, N.",
+    "Trudeau, R. T.",
+    "Welter, E.",
+    "Jiwrajka, N.",
+    "Ochoa-Vidales, S.",
+    "Syrett, C. M.",
+    "Lim, B.",
+    "Anguera, M."
+   ],
+   "first_author": "Valero-Pacheco, N.",
+   "last_author": "Anguera, M.",
+   "last_author_affiliation": "",
+   "corresponding_author": "Montserrat Anguera",
+   "corresponding_institution": "University of Pennsylvania",
+   "abstract": "Sex differences in antiviral immunity are well established, yet the contribution of X-Chromosome Inactivation (XCI) to T cell responses during infection is unknown. Here, we identify an unexpected role for Xist RNA in shaping T cell immunity and pulmonary injury following influenza infection. We show that the inactive X chromosome (Xi) in pulmonary CD4+ and CD8+ T cells undergoes dynamic epigenetic remodeling, with limited Xist RNA localization, differential enrichment of H3K27me3 and H2AK119Ub modifications, and activation-dependent XCI escape of immune-related genes, including Il2rg and Cxcr3. Remarkably, T cell-specific Xist deletion protects female mice from influenza-induced weight loss and pulmonary pathology despite comparable early viral burdens. Transcriptomic profiling reveals increased expression of X-linked escape genes and antiviral and interferon-responsive genes, particularly in CD8+ T cells. Furthermore, Xist-deficient CD4+ and CD8+ antigen-experienced (CD44+CD11a+) T cells exhibit increased biallelic Cxcr3 expression, elevated pulmonary Cxcr3 protein levels, and enhanced IFN-{gamma} and TNF responses following ex vivo stimulation. Together, our findings reveal a previously unrecognized role for Xist RNA in regulating female antiviral T cell responses and demonstrate that enhanced T cell effector potential can accompany reduced infection-associated pulmonary injury.",
+   "url": "https://doi.org/10.64898/2026.11.20.768059",
+   "type": "immunology",
+   "version": "1",
+   "hits": []
+  },
+  {
+   "doi": "10.64898/2026.11.12.766196",
+   "title": "EPIC2: integrating single-cell chromatin accessibility with human genetics to identify trait-relevant cell types",
+   "journal": "biorxiv",
+   "date": "2026-11-22",
+   "source": "biorxiv",
+   "authors": [
+    "Zhu, L.",
+    "Jiang, Y."
+   ],
+   "first_author": "Zhu, L.",
+   "last_author": "Jiang, Y.",
+   "last_author_affiliation": "",
+   "corresponding_author": "Yuchao Jiang",
+   "corresponding_institution": "Texas A&M University",
+   "abstract": "Summary: EPIC2 is a computational and statistical framework for prioritizing trait-relevant cellular contexts by integrating genome-wide association study (GWAS) summary statistics with single-cell chromatin accessibility data. It accounts for linkage disequilibrium when testing for association between GWAS association strength and cell-type-specific chromatin accessibility at both SNP and regulatory-peak resolutions. The resulting P-values are combined using the Cauchy combination test. Availability and Implementation: The core workflow is implemented in R, with source code, vignettes, and reproducible test data freely available at https://github.com/LingxuanZ/EPIC2. Supplementary Information: Supplementary material accompanies this preprint.",
+   "url": "https://doi.org/10.64898/2026.11.12.766196",
+   "type": "bioinformatics",
+   "version": "1",
+   "hits": [
+    "core",
+    "secondary"
+   ]
+  },
+  {
+   "doi": "10.64898/2026.11.12.766137",
+   "title": "Bryostatin-1 exploits a developmental signaling vulnerability in MEF2D-rearranged B-cell precursor acute lymphoblastic leukemia",
+   "journal": "biorxiv",
+   "date": "2026-11-22",
+   "source": "biorxiv",
+   "authors": [
+    "Glaziou, Q.",
+    "Qi, X.",
+    "Aswad, L.",
+    "Leo, I. R.",
+    "Post, F.",
+    "Kemkes, M.",
+    "Vogt, M.",
+    "Hovey, O. F. J.",
+    "Mermelekas, G.",
+    "Struyf, N.",
+    "Erkers, T.",
+    "Tamm, K. P.",
+    "Akahane, K.",
+    "Inukai, T.",
+    "Bhatia, S.",
+    "Lehtiö, J.",
+    "Jafari, R."
+   ],
+   "first_author": "Glaziou, Q.",
+   "last_author": "Jafari, R.",
+   "last_author_affiliation": "",
+   "corresponding_author": "Rozbeh Jafari",
+   "corresponding_institution": "Karolinska Institute",
+   "abstract": "MEF2D-rearranged (MEF2D-r) B-cell precursor acute lymphoblastic leukemia (BCP-ALL) is a rare molecular subtype associated with high-risk clinical features and frequent relapse and characterized by a distinctive pre-B-cell developmental state and dependence on pre-B-cell receptor (pre-BCR) signaling. Despite these distinctive biological features, MEF2D-r BCP-ALL lacks subtype-directed therapy. Here, we identify a pharmacologically actionable vulnerability to the diacylglycerol (DAG) mimetic bryostatin-1 (Bryo-1). Across 93 BCP-ALL cell lines, MEF2D-r models were enriched for Bryo-1 sensitivity, although responses varied within the subtype and extended to selected non-MEF2D models. Sensitive cells responded at low-nanomolar concentrations with rapid ERK activation followed by loss of pre-BCR-associated components, reduced proliferation, caspase activation and cell death. Pharmacological MEK inhibition markedly attenuated Bryo-1-induced loss of viability, supporting a functional involvement of MEK-ERK signaling. Time-resolved phosphoproteomic and proteomic analyses further revealed coordinated activation of DAG-responsive signaling and subsequent remodeling of the precursor B-cell state. Bryo-1 also altered immunotherapy-relevant surface antigens, including CD19, CD20 and CD22, as part of this broader cell-state transition. Importantly, low-nanomolar activity was reproduced ex vivo in MEF2D-r patient-derived xenograft cells. Together, these findings support pharmacological activation of a negative-selection-like developmental checkpoint as a potential therapeutic strategy in responsive MEF2D-r BCP-ALL and provide a framework for biomarker-guided functional patient selection.",
+   "url": "https://doi.org/10.64898/2026.11.12.766137",
+   "type": "cancer biology",
+   "version": "1",
+   "hits": [
+    "disease"
+   ]
+  },
+  {
+   "doi": "10.64898/2026.11.10.765744",
+   "title": "High-Resolution Spatial Transcriptomics Reveals Millimeter-Scale Malignant Territories and Immune Exclusion patterns in Human Salivary Gland Adenoid Cystic Carcinoma",
+   "journal": "biorxiv",
+   "date": "2026-11-22",
+   "source": "biorxiv",
+   "authors": [
+    "Bijukumar, G.",
+    "Hoff, K.",
+    "Brayer, K. J.",
+    "Bearer, E. L.",
+    "Palanisamy, V.",
+    "Edwards, J. S."
+   ],
+   "first_author": "Bijukumar, G.",
+   "last_author": "Edwards, J. S.",
+   "last_author_affiliation": "",
+   "corresponding_author": "Jeremy S. Edwards",
+   "corresponding_institution": "University of New Mexico",
+   "abstract": "Background/Objectives: Adenoid cystic carcinoma (ACC) of the salivary gland (SGACC) is a rare malignancy with frequent late recurrence and limited response to systemic and immune therapies. Bulk and single-cell sequencing do not preserve tissue architecture, so the spatial organization of its MYB-driven myoepithelial and luminal tumor cells, stroma, and immune cells remains poorly defined. This study aimed to map the SGACC tumor microenvironment at near-cellular resolution. Methods: Visium HD based spatial transcriptomics was performed on four SGACC tissue sections from three patients with tubulo-cribriform tumor form in stage III - IV. Bins of 10 x 10 {micro}m were annotated and deconvolved with cell2location using an integrated single-cell reference of 119,189 cells from 20 donors. Pseudobulk differential expression, spatial autocorrelation, potency and spatial trajectory inference, permutation-based territory analysis, Hotspot module detection, and marker-based immune profiling were applied. Results: MYB-expressing luminal (LECs-MYB) and myoepithelial (MECs-MYB) epithelial cells occupied 55.7% of bins on average. The MECs-MYB to LECs-MYB ratio increased from the nest interior toward the tumor edge, where cancer-associated fibroblasts rose sharply. Potency and trajectory analyses placed MECs-MYB upstream of LECs-MYB. Malignant states formed territories of up to 38.0 mm2 that persisted over 1.5 mm in three sections and contained spatially restricted programs. Hypoxic stressed territories also showed mTORC1, unfolded protein response, and cell-cycle programs. T/NK, myeloid, MHC class I and II, and plasma cell signatures were 1.4- to 5.7-fold higher in stroma than in tumor nests, whereas VTCN1 (B7-H4) was the only B7 family ligand enriched within nests. Conclusions: SGACC shows an ordered arrangement of malignant lineages, millimeter-scale malignant territories, MHC class - I and II enriched stroma, and immune-excluded nests enriched for B7-H4. These features provide evidence to be validated in larger cohorts with protein-level and clinical data.",
+   "url": "https://doi.org/10.64898/2026.11.10.765744",
+   "type": "cancer biology",
+   "version": "1",
+   "hits": [
+    "core",
+    "disease"
+   ]
+  },
+  {
+   "doi": "10.64898/2026.11.13.766360",
+   "title": "High GPX4 Expression Marks an Oxidative-Metabolic, PD-L1/CD47-Low and Stroma-Poor Tumor State in Hepatocellular Carcinoma",
+   "journal": "biorxiv",
+   "date": "2026-11-22",
+   "source": "biorxiv",
+   "authors": [
+    "Govindaraj, P. R.",
+    "Akaye, M. P."
+   ],
+   "first_author": "Govindaraj, P. R.",
+   "last_author": "Akaye, M. P.",
+   "last_author_affiliation": "",
+   "corresponding_author": "Prakash Raj Govindaraj",
+   "corresponding_institution": "Moscow Institute of Physics and Technology",
+   "abstract": "Background: Glutathione peroxidase 4 (GPX4) protects cancer cells from ferroptosis and is a candidate therapeutic target in hepatocellular carcinoma (HCC). How GPX4 expression relates to the immune and metabolic features of patient tumors is not well characterized. Methods: We analyzed RNA-sequencing data from 366 primary tumors of the TCGA-LIHC PanCancer Atlas cohort (365 with survival data). Associations between GPX4 and ten immune and stress-response markers were tested by Spearman correlation with Benjamini-Hochberg correction, then re-estimated after adjustment for consensus tumor purity, CTNNB1 and TP53 mutation, age and sex. A T-cell-inflamed profile, a CD8 T-cell score and an NRF2 target-gene score, gene set enrichment analysis (GSEA) of GPX4-high versus GPX4-low tumors, and Cox models were added as further tests. Results: Higher GPX4 expression was associated with lower expression of PD-L1 (CD274; rho = -0.34, 95% CI -0.43 to -0.24, p = 2.4 x 10^-11), CD47 (rho = -0.21), the macrophage marker CD163 (rho = -0.17) and a fibroblast/extracellular-matrix score (rho = -0.22). These associations persisted after adjustment (CD274 rho = -0.37 in the fully adjusted model). GSEA showed enrichment of oxidative phosphorylation, mitochondrial, fatty-acid, xenobiotic and glutathione metabolism programs and depletion of extracellular-matrix, TGF-beta and cell-adhesion programs in GPX4-high tumors. GPX4 was not associated with a T-cell-inflamed profile (rho = -0.07), a CD8 T-cell score (rho = -0.03), cytolytic activity (rho = 0.04) or an NRF2 target-gene score (rho = 0.03), although NFE2L2 mRNA was inversely correlated with GPX4 (rho = -0.32). GPX4 expression was not associated with overall survival (stage-adjusted hazard ratio per SD 1.09, 95% CI 0.91-1.29). Conclusions: In TCGA-LIHC, high GPX4 expression marks a metabolically active, PD-L1/CD47-low and matrix-poor tumor state, with no evidence of T-cell exclusion, NRF2 pathway activation or prognostic value. These correlative findings come from a single cohort and require external validation and functional testing. Keywords: hepatocellular carcinoma; ferroptosis; GPX4; PD-L1; CD47; tumor microenvironment; NRF2; gene set enrichment analysis; TCGA",
+   "url": "https://doi.org/10.64898/2026.11.13.766360",
+   "type": "cancer biology",
+   "version": "1",
+   "hits": [
+    "disease"
+   ]
+  },
+  {
+   "doi": "10.64898/2026.11.17.767399",
+   "title": "Syngeneic human iPSC Macrophages and Microglia possess distinct neuroinflammatory profiles, responses to HIV infection, and ART treatment",
+   "journal": "biorxiv",
+   "date": "2026-11-22",
+   "source": "biorxiv",
+   "authors": [
+    "Oteju, O.",
+    "Daniali, M.",
+    "Kist, T.",
+    "Xu, X.",
+    "Emanuel, K.",
+    "Niu, M.",
+    "Dampier, W.",
+    "Fox, H.",
+    "Gaskill, P. J."
+   ],
+   "first_author": "Oteju, O.",
+   "last_author": "Gaskill, P. J.",
+   "last_author_affiliation": "",
+   "corresponding_author": "Peter Jesse Gaskill",
+   "corresponding_institution": "Drexel University College of Medicine",
+   "abstract": "Macrophages are innate immune cells that primarily function as professional phagocytes, playing essential roles throughout the body in host defense and maintaining homeostasis. The CNS is populated by two anatomically distinct macrophage populations; parenchymal microglia and border-resident CNS-associated macrophages (CAMs). These populations coordinate the neuroinflammatory response to pathogen-associated molecular patterns (PAMPs) through Toll-like receptor (TLR) signaling and are exposed to distinct microenvironmental cues that could shape their functions. CNS macrophages are also involved in infection with neurotropic viruses such as HIV, where the persistent infection contributes to chronic neuroinflammation and the constellation of other neurological symptoms collectively termed neuroHIV. Although antiretroviral therapy (cART) has transformed HIV care and lessened the severity of many neuroHIV symptoms, the persistence of CNS viral reservoirs and neurological deficits remains a major comorbidity and barrier to cure. Understanding specific contributions of microglia and CAMs to inflammation and neuroHIV has been challenging due to the lack of genetically matched human model systems enabling direct mechanistic comparison between of microglia and CAMs. To address this, we optimized the generation of syngeneic, human-induced pluripotent stem cell (iPSC) derived microglia-like (iMg) and CAM-like (iMacs) cells. These are generated simultaneously from a single donor line and have the same genetic background, enabling side-by-side characterization and functional analyses of inflammation and HIV infection. Transcriptomic profiling by RNA sequencing revealed substantial baseline differences in inflammatory and immune signaling pathways between iMg and iMacs. These intrinsic differences were also observed in TLR-specific NF-{kappa}B responses. Stimulation of TLR4 drove heightened response in iMg relative to iMac, correlating closely with morphological changes, while stimulating TLR2 had a contrasting effect, eliciting a stronger and more robust early NF-{kappa}B response in iMacs. In HIV infection studies, iMacs were more permissive to viral replication at baseline, whereas iMg showed a reduced susceptibility to infection. However, iMacs responded more robustly to cART, while iMg exhibited relative resistance to cART-mediated suppression. These findings delineate fundamental inflammatory and virologic differences between human microglia and CAMs and provide a robust foundation on which to further examine HIV infection, cART efficacy, and immune function in these distinct CNS myeloid populations.",
+   "url": "https://doi.org/10.64898/2026.11.17.767399",
+   "type": "cell biology",
+   "version": "1",
+   "hits": []
+  },
+  {
+   "doi": "10.64898/2026.11.18.767665",
+   "title": "Media matters: A resource for understanding the determinants of migratory potential of malignant and non-malignant cells",
+   "journal": "biorxiv",
+   "date": "2026-11-22",
+   "source": "biorxiv",
+   "authors": [
+    "Kim, B.",
+    "Lopez, A.",
+    "Osuna, M. F.",
+    "Thevarajan, I.",
+    "Lewey, S. F.",
+    "Sauceda, E.",
+    "Mundy, D.",
+    "Cole, N.",
+    "Minna-Choe, K.",
+    "Sanchez, I.",
+    "Yang, C.",
+    "Nadeem, U.",
+    "Gao, B.",
+    "Minna, J. D.",
+    "Wight-Carter, M.",
+    "Zaganjor, E.",
+    "DeBerardinis, R. J.",
+    "Wang, L.",
+    "Osborne, J. K."
+   ],
+   "first_author": "Kim, B.",
+   "last_author": "Osborne, J. K.",
+   "last_author_affiliation": "",
+   "corresponding_author": "Jihan K Osborne",
+   "corresponding_institution": "UT Southwestern Medical Center",
+   "abstract": "Cell mobility is critical for homeostatic processes such as wound repair and diseases like cancer metastasis. While the advent of migrastatic and antimetastatic therapies has promise, the identification and translation of pathways important for migratory plasticity into druggable targets approved in clinical trials are considerably lacking. To better understand why, we developed an unbiased high-throughput wound-healing/invasion assay to screen for the migratory potential of >60 non-malignant and malignant cell lines derived from the pancreas, colon, skin, breast, prostate, and lung. The goal of this phenotypic screen was to provide a resource of migration/invasion potential and insight into the differential properties not only between malignant and non-malignant cells but also the various carcinomas. Surprisingly, we found non-malignant epithelial cells of the lung, skin, and pancreas migrated/invaded faster than their malignant counterparts. We observed perturbation of glucose metabolism, via inhibition of glycolysis, restricted the migration of non-malignant but not cancer cells, whereas inhibition of oxidative phosphorylation limited the mobility of malignant more than normal cells of the lung, skin, and pancreas. Short-term acclimation of cancer cells in low-nutrient media, containing low/no serum, low calcium, and physiological concentrations of glucose, increased in vitro migration/invasion and in vivo metastatic potential of lung but not pancreatic carcinomas. Phenotypic and metabolic screens presented here could identify prospective therapeutics not only for cancer metastasis, but also diseases driven by the dysregulation of wound-healing/regeneration.",
+   "url": "https://doi.org/10.64898/2026.11.18.767665",
+   "type": "cancer biology",
+   "version": "1",
+   "hits": [
+    "disease"
+   ]
+  },
+  {
+   "doi": "10.64898/2026.11.18.766653",
+   "title": "YAP activity sustains mitochondrial adaptation to NAMPT inhibition in triple-negative breast cancer",
+   "journal": "biorxiv",
+   "date": "2026-11-22",
+   "source": "biorxiv",
+   "authors": [
+    "Buongiorno, A.",
+    "Franceschi, E.",
+    "Cerri, E.",
+    "Fiorilla, I.",
+    "Audrito, V.",
+    "Carreira, A. S. A.",
+    "Provenzani, A."
+   ],
+   "first_author": "Buongiorno, A.",
+   "last_author": "Provenzani, A.",
+   "last_author_affiliation": "",
+   "corresponding_author": "Agata Sofia Assuncao Carreira",
+   "corresponding_institution": "University of Oxford",
+   "abstract": "Nicotinamide adenine dinucleotide (NAD+) is an essential metabolic cofactor, and maintenance of NAD+ homeostasis is critical for cancer cell survival. Pharmacological inhibition of nicotinamide phosphoribosyltransferase (NAMPT), the rate-limiting enzyme of the NAD+ salvage pathway, induces NAD+ depletion and energetic stress, although the development of resistance limits its therapeutic potential. We have previously shown that acquired resistance to NAMPT inhibition in triple-negative breast cancer (TNBC) cells is associated with extensive metabolic rewiring. Here, we investigated the role of the Hippo pathway effector YAP in the cellular adaptation to NAMPT inhibition. Stable YAP downregulation markedly decreased the sensitivity of MDA-MB-231 cells to the NAMPT inhibitors FK866 and CHS-828, whereas re-expression of constitutively active YAP5SA partially restored sensitivity to FK866. YAP-silenced cells maintained NAD(H) and ATP levels during FK866 exposure and showed reduced oxidative stress and caspase 3/7 activation. Comparative proteomic analysis of YAP-silenced cells and cells with acquired FK866 resistance revealed common alterations in mitochondrial, cell-cycle, and RNA-processing programs. Consistently, YAP downregulation altered the cell-cycle response to FK866 and increased mitochondrial respiration, spare respiratory capacity, and mitochondrial mass. These findings identify YAP as a modulator of the cellular response to NAMPT inhibition and suggest that sustained YAP downregulation contributes to the establishment of an adaptive state characterized by reduced proliferative and biosynthetic programs together with increased mitochondrial capacity.",
+   "url": "https://doi.org/10.64898/2026.11.18.766653",
+   "type": "cancer biology",
+   "version": "1",
+   "hits": [
+    "disease"
+   ]
+  },
+  {
+   "doi": "10.64898/2026.11.13.766410",
+   "title": "Metabolic priming recruits tumour cells across a mitochondrial vulnerability threshold and sensitizes them to chemotherapy",
+   "journal": "biorxiv",
+   "date": "2026-11-22",
+   "source": "biorxiv",
+   "authors": [
+    "Iborra, F. J."
+   ],
+   "first_author": "Iborra, F. J.",
+   "last_author": "Iborra, F. J.",
+   "last_author_affiliation": "",
+   "corresponding_author": "Francisco J Iborra",
+   "corresponding_institution": "CSIC",
+   "abstract": "Intratumour heterogeneity allows a fraction of cancer cells to escape otherwise effective treatment. Here we ask whether metabolic priming can recruit heterogeneous tumour cells into a transient mitochondrial state that is selectively vulnerable to photodynamic damage. Tetramethylrhodamine methyl ester (TMRM) has previously been shown to act as a mitochondria targeted photosensitizer; we exploit its voltage-dependent accumulation and dynamic fluorescence during pulsed illumination to quantify vulnerability in single cells. The response is a reproducible fluorescence excursion, a rise to a maximum followed by a decay, accompanied by reactive oxygen species production. Comparing seventeen descriptors of this excursion against subsequent fate in 195 cells across four arms shows that quantities referenced to each cell's own resting value outperform static intensity. The simple difference Fmax F0 predicts death with held-out areas under the curve of approximately 0.75 to 0.79, whereas resting intensity alone carries little transferable information and time to peak does not discriminate fate in the datasets tested. Metabolic priming with the PKM2 activator TEPP46 or with ethyl pyruvate increases the fraction of responding cells; under TEPP46 almost the whole population enters the responding state. PKM2 abundance is associated with faster entry into that state, and PKM2 is heterogeneous in human skin tumour sections. Four hours of camptothecin shifts the response distribution, increasing the fraction of cells above the untreated median from 50% to 76%, identifying a candidate intervention window. In combination experiments, TMRM photodynamic treatment produced survival below the Bliss-independence expectation with camptothecin or TRAIL, in both treatment orders and across three cell lines; these combination measurements are descriptive and require independent replication. The study therefore identifies a perturbation-revealed mitochondrial vulnerability that can be pharmacologically recruited and followed dynamically at single-cell resolution. It is a proof of concept in cultured cells and human tumour sections and has not been tested in vivo.",
+   "url": "https://doi.org/10.64898/2026.11.13.766410",
+   "type": "cancer biology",
+   "version": "1",
+   "hits": [
+    "core",
+    "disease"
+   ]
+  },
+  {
+   "doi": "10.64898/2026.11.16.766884",
+   "title": "A latent tau amplifier in the neuronal proteome lowers the seeding threshold for Alzheimers disease pathology",
+   "journal": "biorxiv",
+   "date": "2026-11-22",
+   "source": "biorxiv",
+   "authors": [
+    "Tsaka, G.",
+    "Kolla, R.",
+    "Wiedmer, A. E.",
+    "Georgilis, A.",
+    "Kenis, S.",
+    "Van der Hoeven, G.",
+    "Claes, F.",
+    "Khodaparast, L.",
+    "Khodaparast, L.",
+    "Lahaije, B.",
+    "Tome, S. O.",
+    "Muwonge, K.",
+    "Duran, R.",
+    "Vandenberghe, R.",
+    "von Arnim, C. A. F.",
+    "Louros, N.",
+    "Thal, D. R.",
+    "Rousseau, F.",
+    "Schymkowitz, J."
+   ],
+   "first_author": "Tsaka, G.",
+   "last_author": "Schymkowitz, J.",
+   "last_author_affiliation": "",
+   "corresponding_author": "Joost Schymkowitz",
+   "corresponding_institution": "VIB Center for Neuroscience",
+   "abstract": "The stereotyped spread of tau pathology through connected brain regions is accompanied by striking differences in the vulnerability of individual neuronal populations, pointing to cell-intrinsic determinants of susceptibility. Using a combination of computational APR analysis, in vitro and cellular aggregation assays, and quantitative proteomics of human postmortem brain, we identify the splicing factor TRA2B as an endogenous modifier of this susceptibility. TRA2B enhances the activity of patient-derived tau seeds, promotes tau pathology in vivo, and progressively redistributes from the nucleus into insoluble tau-associated material in Alzheimers disease brain. Mechanistically, TRA2B contains two aggregation-prone regions (APRs) homologous to tau nucleation sites that are required for tau interaction and seeding enhancement. Yet this activity is not constitutive: isolated TRA2B APRs promote aggregation, whereas the full-length protein can inhibit, amplify or have little effect on tau aggregation depending on protein state and seeding context. Perturbation of the regulatory RS2 region switches TRA2B away from its amplifying state, revealing that its sequence-encoded aggregation potential is regulatable. Thus, TRA2B acts as a latent tau amplifier, providing a mechanism by which the neuronal proteome can tune cellular susceptibility to the propagation of pathological tau.",
+   "url": "https://doi.org/10.64898/2026.11.16.766884",
+   "type": "neuroscience",
+   "version": "1",
+   "hits": []
+  },
+  {
+   "doi": "10.64898/2026.11.18.763125",
+   "title": "Smyd1 regulates H3K4me3 to support adaptive fatty acid oxidation in the adult heart during lipid overload",
+   "journal": "biorxiv",
+   "date": "2026-11-22",
+   "source": "biorxiv",
+   "authors": [
+    "Mukai, R.",
+    "Oka, S.",
+    "Sung, E.-A.",
+    "Takayama, K.",
+    "Ikeda, S.",
+    "Matsushita, M.",
+    "Takada, T.",
+    "Sadoshima, J."
+   ],
+   "first_author": "Mukai, R.",
+   "last_author": "Sadoshima, J.",
+   "last_author_affiliation": "",
+   "corresponding_author": "Risa Mukai",
+   "corresponding_institution": "Rutgers New Jersey Medical School",
+   "abstract": "Obesity and metabolic syndrome are major risk factors for heart failure, and impaired fatty acid oxidation (FAO) is a key contributor to metabolic dysfunction in obesity-related cardiomyopathy. However, how the heart maintains FAO and adapts to chronic lipid overload remains poorly understood. Here, we identify SET and MYND domain-containing protein 1 (Smyd1), a muscle-specific histone methyltransferase, as an early compensatory regulator of cardiac metabolism in response to lipid overload. In wild-type mouse hearts, high-fat diet (HFD) feeding induced transient increases in Smyd1 expression and H3K4me3 levels during the early-to-mid phase of metabolic stress, both of which returned to baseline levels during prolonged HFD exposure. Single-cell RNA sequencing further revealed that this adaptive increase in Smyd1 expression occurred predominantly in cardiomyocytes. In contrast, cardiac-specific Smyd1 heterozygous knockout mice exhibited accelerated cardiac dysfunction, left ventricular dilation, increased myocardial fibrosis, and reduced survival following HFD feeding. Mechanistically, Smyd1 deficiency impaired the adaptive upregulation of key FAO-related genes and reduced cardiac FAO activity. Furthermore, co-immunoprecipitation analysis revealed an interaction between Smyd1 and peroxisome proliferator-activated receptor alpha (PPAR), suggesting a potential mechanism by which Smyd1 supports FAO gene expression. Taken together, these findings identify Smyd1 as an early compensatory regulator that supports FAO-dependent metabolic adaptation and protects the heart against lipid overload-induced cardiac dysfunction. This adaptive mechanism, involving H3K4me3 regulation and the Smyd1-PPAR interaction, may provide potential therapeutic targets for therapeutic strategies aimed at preserving cardiac metabolic flexibility in obesity-related cardiomyopathy.",
+   "url": "https://doi.org/10.64898/2026.11.18.763125",
+   "type": "cell biology",
+   "version": "1",
+   "hits": [
+    "core"
+   ]
+  },
+  {
+   "doi": "10.64898/2026.11.18.767531",
+   "title": "Single-molecule in situ detection and quantification of mitochondrial DNA heteroplasmy",
+   "journal": "biorxiv",
+   "date": "2026-11-22",
+   "source": "biorxiv",
+   "authors": [
+    "Gottardo, S.",
+    "Chowdhury, S. R.",
+    "Wilson, B. A.",
+    "Chandrasegaram, R.",
+    "Prudent, J.",
+    "van den Ameele, J."
+   ],
+   "first_author": "Gottardo, S.",
+   "last_author": "van den Ameele, J.",
+   "last_author_affiliation": "",
+   "corresponding_author": "Jelle van den Ameele",
+   "corresponding_institution": "University of Cambridge",
+   "abstract": "The mitochondrial DNA (mtDNA) is a multi-copy genome present in most eukaryotic cells and essential for life. The presence of different mtDNA variants within a cell, or heteroplasmy, may cause pathology when the level of deleterious variants exceeds a critical threshold. However, the mechanisms that control heteroplasmy levels remain poorly understood, in part due to a lack of technologies to visualise mtDNA heteroplasmy in situ and correlate it with intracellular processes. mtDNA single-molecule fluorescence in situ hybridisation (mtDNA-smFISH) allows in situ visualisation of mtDNA molecules and sequence-specific detection of heteroplasmic variants. Here, we provide protocols for sequence-specific detection of mtDNA, large-scale single mtDNA deletions and species-specific haplotypes, in fixed human and Drosophila cells and in whole-mount Drosophila tissues. Combining mtDNA-smFISH with immunohistochemistry using biotin-labelled primary antibodies that resist heat-based denaturation, allows concomitant detection of intracellular proteins. We further describe two image-analysis pipelines, one for 3D quantification and one open-source for 2D quantification of mtDNA deletions in Drosophila tissues and cell culture. This enables estimation of single-cell heteroplasmy levels, observation of cell-to-cell variability, and detection of mtDNA variants at a subcellular level, making mtDNA-smFISH a powerful tool to study the intracellular processes regulating heteroplasmy and mtDNA quality control.",
+   "url": "https://doi.org/10.64898/2026.11.18.767531",
+   "type": "cell biology",
+   "version": "1",
+   "hits": [
+    "core"
+   ]
+  },
+  {
+   "doi": "10.64898/2026.11.19.763725",
+   "title": "Read&Tag enables antibody-independent combinatorial and multifactorial chromatin profiling",
+   "journal": "biorxiv",
+   "date": "2026-11-22",
+   "source": "biorxiv",
+   "authors": [
+    "Schneider, M.",
+    "Kopp, L. C.",
+    "Schwarzlose, C.",
+    "Bohara, N. R.",
+    "Bollachettira, C.",
+    "Campos Sparr, A.",
+    "Huschet, L. A.",
+    "Robles, M. S.",
+    "Villasenor, R."
+   ],
+   "first_author": "Schneider, M.",
+   "last_author": "Villasenor, R.",
+   "last_author_affiliation": "",
+   "corresponding_author": "Rodrigo Villasenor",
+   "corresponding_institution": "Chair of Molecular Biology, Biomedical Center (BMC), LMU Medizin, Ludwig Maximilian University of Munich, Germany",
+   "abstract": "Genome-wide chromatin profiling methods based on in situ tagmentation have expanded access to epigenomic information but generally rely on antibodies, thereby limiting their multifactorial capacity and the direct measurement of combinatorial chromatin states. Here, we introduce Read&Tag, in which engineered chromatin reader domains or intrabodies are fused directly to the Tn5 transposase to target specific chromatin features in situ. Read&Tag profiles active and repressive histone modifications, DNA methylation, and elongating RNA polymerase II, with signal amplitude increasing with target abundance and remaining robust in frozen tissue and low-input samples. Because the targeting module is a protein of defined structure and affinity, two specificities can be combined within a single complex. Tagmentation by such a dual-specificity reader requires H3K4me3 and H3K27me3 to be present together in the same chromatin fragment. The co-occurrence of both marks thus becomes a precondition of the measurement rather than an inference drawn from independently measured profiles. Combining barcoded reader-Tn5 complexes with primer-timed signal augmentation enables the measurement of four chromatin features in a single reaction. Read&Tag therefore provides a modular, antibody-independent platform for combinatorial and multifactorial profiling.",
+   "url": "https://doi.org/10.64898/2026.11.19.763725",
+   "type": "genomics",
+   "version": "1",
+   "hits": []
+  }
+ ]
+}

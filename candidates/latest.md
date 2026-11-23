@@ -1,148 +1,161 @@
-# Candidates collected 2026-11-22
+# Candidates collected 2026-11-23
 
-Windows: journals 2026-11-19 to 2026-11-22, preprints 2026-11-19 to 2026-11-21. Items collected on earlier days are excluded.
+Windows: journals 2026-11-20 to 2026-11-23, preprints 2026-11-20 to 2026-11-22. Items collected on earlier days are excluded.
 
 ## Source status (records returned by each source in the latest run, before de-duplication)
 
-- crossref:Nature: ok, 30 items
-- crossref:Science: ok, 38 items
-- crossref:Cell: ok, 6 items
-- crossref:Nature Methods: ok, 8 items
-- crossref:Nature Biotechnology: ok, 1 items
-- crossref:Nature Genetics: ok, 3 items
-- crossref:Nature Medicine: ok, 6 items
-- crossref:Nature Communications: ok, 105 items
+- crossref:Nature: ok, 16 items
+- crossref:Science: ok, 0 items
+- crossref:Cell: ok, 0 items
+- crossref:Nature Methods: ok, 3 items
+- crossref:Nature Biotechnology: ok, 0 items
+- crossref:Nature Genetics: ok, 1 items
+- crossref:Nature Medicine: ok, 2 items
+- crossref:Nature Communications: ok, 73 items
 - crossref:Science Advances: ok, 88 items
 - crossref:Nature Cancer: ok, 2 items
 - crossref:Nature Neuroscience: ok, 0 items
 - crossref:Cell Genomics: ok, 0 items
 - crossref:Cell Systems: ok, 0 items
-- crossref:Molecular Cell: ok, 5 items
-- crossref:Cancer Cell: ok, 1 items
-- crossref:Neuron: ok, 3 items
+- crossref:Molecular Cell: ok, 0 items
+- crossref:Cancer Cell: ok, 0 items
+- crossref:Neuron: ok, 2 items
 - crossref:Am J Hum Genet: ok, 1 items
-- crossref:Genome Biology: ok, 14 items
+- crossref:Genome Biology: ok, 5 items
 - crossref:Genome Research: ok, 0 items
 - crossref:Cancer Discovery: ok, 3 items
-- crossref:NEJM: ok, 26 items
-- pubmed: ok, 237 items
-- biorxiv: ok, 252 items
-- medrxiv: ok, 35 items
+- crossref:NEJM: ok, 4 items
+- pubmed: ok, 126 items
+- biorxiv: ok, 151 items
+- medrxiv: ok, 17 items
 
-## Keyword hits: core / secondary (9)
+## Keyword hits: core / secondary (11)
 
-### Influenza A virus orchestrates ciliated cell fate and injury during the mucociliary damage repair cycle
-- Nature Communications | 2026-11-21 | https://doi.org/10.1038/s41467-026-79726-9
-- First: Biying Xiao | Last: Lei Wang
-- Tags: core | n_authors: 17
-Abstract Influenza A virus causes acute damage to airway epithelium, yet the damage–repair cycle and mechanisms underlying persistent mucociliary clearance (MCC) dysfunction long after viral clearance remain unclear. Here, using longitudinal in vivo quantitative micro-optical coherence tomography, we show that global MCC impairment persists for more than 14 days, marked by impaired ciliary activity and sustained mucus hypersecretion in male mice infected with the H1N1 influenza A/Puerto Rico/8/1934 (PR8) strain. Through lineage tracing and multi-omics analyses, we identify an immune-mediated transdifferentiation program in which IFN signaling activates the IDO1–AhR axis to drive ciliated-to-mucous cell fate transition and chronic muco-obstruction after H1N1 PR8 infection in a reconstructed human bronchial epithelium model. In parallel, we identify the viral M2 protein as a key driver of ciliary loss, suppressing the host TP73–FOXJ1–RFX3 regulatory axis and promoting proteasomal degradation of FOXJ1. Together, these findings uncover host- and virus-driven pathways that cooperatively impair airway epithelial homeostasis and sustain MCC failure beyond active infection, highlighting th...
+### Heparan sulfate sulfatases are essential for the patterning of human stem cell-derived midbrain dopaminergic neurons
+- Nature Communications | 2026-11-22 | https://doi.org/10.1038/s41467-026-79485-7
+- First: Chiara Tremolanti | Last: Ernest Arenas
+- Tags: core, secondary | n_authors: 17
+Abstract Midbrain dopaminergic neurons (mDA) are selectively lost in Parkinson’s disease, driving sustained efforts to generate bona fide mDA neurons from human-induced pluripotent stem cells (iPSCs) for replacement therapy. While morphogen gradients and transcription factors have been extensively studied, extracellular regulators remain largely overlooked. Here, we identify the heparan sulfate-modifying enzymes SULF1 and SULF2 as essential for establishing mDA neuron identity in vitro. Using CRISPR/Cas9-engineered iPSCs, we show that loss of SULF1/2 increases 6-O-sulfated heparan sulfate species and disrupts patterning both at the anteroposterior and dorsoventral axes in human iPSC-derived mDA cultures. Double-knockout cells thus fail to acquire ventral midbrain fates and instead adopt hindbrain, spinal cord and neural crest-like identities as revealed by single-nucleus RNA sequencing. Mechanistically, we partially explain the changed patterning to aberrant FGF signaling and demonstrate that FGF inhibition redirects cells toward midbrain fates, however without restoring ventral identity. These findings establish a critical role for SULF1/2 in mDA neuron in vitro differentiation an...
 
-### Epiformer: epistasis detection by genome language model and dual-channel network.
-- Genome Biology | 2026-09-02 | https://doi.org/10.1186/s13059-026-04268-8
-- First: Xiaowei Zhang | Last: Guoxian Yu (School of Software, Shandong University, Jinan, 250101, China. gxyu@sdu.edu.cn.)
-- Tags: secondary | n_authors: 7
-Epistasis plays a crucial role in explaining missing heritability in complex traits, yet most detection methods fail to effectively capture local and global interaction patterns and long-range dependencies critical to complex trait architecture. We propose Epiformer that leverages genome language model Evo 2 to capture long-range dependencies from genetic background, and a dual-channel network to jointly model local and global epistasis and additive effects. Epiformer can identify key SNPs and their interactions from complex genomic data to empower phenotype prediction with interpretability, which reinforces epistasis detection. Epiformer performs robustly across species, revealing biologically meaningful patterns and offering new insights into genetic architecture.
+### The genetic and proteomic determinants of pediatric stature development and their link to adult height and type 2 diabetes
+- Nature Communications | 2026-11-22 | https://doi.org/10.1038/s41467-026-79465-x
+- First: N. Fragoso-Bargas | Last: S. Johansson
+- Tags: secondary | n_authors: 22
+Abstract Stature is a key indicator of pediatric health, yet the molecular and metabolic architecture governing childhood growth remains incompletely defined. We conduct genome-wide association analyses of stature from birth to childhood (574,580 measurements; 72,704 Norwegian children) and integrate UK Biobank data (age 10 and adulthood). We uncover life-stage shifts in the genetics of stature, identifying previously not identified childhood-specific effects including variants near GLP1R with BMI-independent effects, and reveal three temporal clusters - Infancy and Childhood clusters enriched for endocrine and metabolic pathways, and a Lifetime growth cluster enriched for skeletal biology. Proteome analysis reveals that prepubertal height is associated with widespread changes in the circulation, identifying 106 height-associated proteins and linking IGF1, IGF2, and IGFBP3 levels to childhood-height polygenic scores. Mendelian randomization shows that reduced fetal growth and taller prepubertal height increase type 2 diabetes risk, independent of adult stature. These findings uncover developmental stage-specific genetic and proteomic influences on child-growth and links to adult me...
 
-### flexiAsCas12a and other Cas12a variants enhance the applicability of Cas12a nucleases in prime editing.
-- Genome Biology | 2026-08-28 | https://doi.org/10.1186/s13059-026-04249-x
-- First: Éva Varga | Last: Eszter Tóth (Institute of Molecular Life Sciences, Research Centre of Natural Sciences, Hungarian Research Network, Budapest, H-1117, Hungary. toth.eszter.enzim@ttk.hu.; Pannon Plazmid Kft., Budapest, H-1114, Hung)
-- Tags: secondary | n_authors: 9
-BACKGROUND: Amongst the genome manipulation tools based on the versatile CRISPR-Cas system, prime editing is the most prominent one as a method that enables precise insertions, deletions, and substitutions without inducing double-strand breaks. Cas12a nucleases are widely used for genome editing and nucleic acid detection, owing to their unique properties; however, their relatively long PAM requirements limit their applicability. RESULTS: We develop PAM-flexible Cas12a variants capable of functioning effectively within mammalian cells, thereby enabling the cleavage of targets previously inaccessible to Cas12a nucleases. Amongst the Lb-, As-, Mb-, and FnCas12a variants we develop, flexiAsCas12a (AsCas12a with flexible PAM recognition) is the most effective, expanding the range of recognized PAM sequences by Cas12a variants to include NATN, NCCN and GTCN sequences. Using the currently available Cas12a variants with relaxed PAM recognition (impLbCas12a, flexiAsCas12a, and enAsCas12a), we develop circular RNA-guided split prime editors and validate their functionality on non-canonical PAM sequences. CONCLUSIONS: flexiAsCas12a joins the repertoire of Cas12a PAM variants, enabling access...
+### Benzoxaboroles target CPSF3 for degradation through a SUMO-dependent pathway in trypanosomes
+- Nature Communications | 2026-11-22 | https://doi.org/10.1038/s41467-026-79400-0
+- First: Ning Zhang | Last: Mark C. Field
+- Tags: secondary | n_authors: 11
+Abstract Benzoxaboroles (BoBs) such as acoziborole feature a boron-heterocyclic core and are an important innovation in the development of drugs against a range of pathogens and other pathologies. A broad pharmacological spectrum is associated with chemically diverse BoB derivatives, including multiple modes-of-action (MoA) and molecular targets. However, a consensus MoA for BoBs targeting evolutionarily diverse protozoan pathogens has emerged, with identification of CPSF3 in the CPSF complex as a target in both apicomplexan and kinetoplastida parasites. Here, using comprehensive genetic screens in Trypanosoma brucei , we establish a functional connection between the boron-heterocyclic scaffold shared by all BoBs and protein sumoylation genes. We observe a rapid, transient increase in global protein sumoylation following BoB exposure. While we do not observe direct CPSF3 sumoylation, we find that acoziborole and other BoBs rapidly and specifically destabilise CPSF3 in a SUMO- and proteasome-dependent manner.
 
-### Spatial metabolic ecosystems shape the architecture of IDH-mutant glioma
-- biorxiv | 2026-11-20 | https://doi.org/10.64898/2026.11.15.765028
-- First: Moffet, J. J. | Last: Best, S. A.
-- Corresponding: Sarah A Best (Cancer Division, The Walter and Eliza Hall Insitute of Medical Research, Melbourne, Australia)
-- Tags: core, disease | n_authors: 23
-The principles governing tissue organization in IDH-mutant glioma remain poorly understood, particularly in the absence of hypoxia and necrosis that define IDH-wildtype glioblastoma. Here, we integrated spatial transcriptomics, metabolomics and histology across co-registered serial tissue sections, generating a multidimensional atlas of IDH-mutant glioma. Integration with an independent spatial transcriptomics cohort and a single cell atlas (n=101 samples), enabled resolution of metabolic and cellular heterogeneity underlying tissue organization. We identified twelve conserved spatial niches with distinct metabolic identities that could not be explained by cellular composition or histology alone. Beyond these ecosystems, we discovered a transcriptionally and epigenetically intermediate malignant cell state enriched in WHO grade 2/3 oligodendroglioma, and spatially segregated myeloid programs. Importantly, progression following chemoradiotherapy was associated with expansion of a glutathione-rich, NRF2-associated antioxidant niche. Together, our findings establish metabolic specialization as a fundamental dimension of glioma organization, providing new insight into tumor heterogenei...
+### Benchmarking of haplotype- and clone-specific detection callers of complex copy number alterations in single-cell DNA sequencing with HCDSIM and HCBench
+- Genome Biology | 2026-11-23 | https://doi.org/10.1186/s13059-026-04358-7
+- First: Xikang Feng | Last: Lingxi Chen
+- Tags: core | n_authors: 6
+(no abstract in metadata)
 
-### TrES-seq integrates single-cell RNA and nanobody-based histone mark profiles to decode epigenetic and transcriptional axes of cell identity
-- biorxiv | 2026-11-20 | https://doi.org/10.64898/2026.11.20.767314
-- First: Polavarapu, V. K. | Last: Oricchio, E.
-- Corresponding: Elisa Oricchio (Swiss Institute for Experimental Cancer Research (ISREC), School of Life Sciences, EPFL, Lausanne, Switzerland)
-- Tags: core | n_authors: 9
-Histone post-translational modifications and gene expression jointly shape cellular identity and activity. However, systematically assessing their heterogeneity and functional interdependence requires high-quality multimodal single-cell readouts, whose generation still faces significant technological challenges. Here, we developed TrES-seq (transcriptional and epigenetic state sequencing), a method that integrates scRNA-seq with species-specific nanobody Tn5 fusion proteins to jointly profile RNA and two histone modifications in the same cells and across multiple samples. In human tonsils, single-cell H3K27ac, H3K27me3, H3K9me3, and RNA data in >25,000 cells revealed a one-to-many relationship where heterogeneous transcriptional states shared similar epigenetic profiles. For example, naive and memory B cells were transcriptionally different but epigenetically indistinguishable, while the epigenetic status of enhancers but not promoters separated germinal center from naive and memory B cells. Moreover, naturally occurring and treatment-induced cell state transitions revealed broad transcriptional changes occurring among genes that already exhibited and retained an epigenetically act...
+### Deciphering the role of adenosine-related genes in regulating smooth muscle cell phenotypic switch in coronary heart disease via single-cell RNA sequencing
+- biorxiv | 2026-11-21 | https://doi.org/10.64898/2026.11.12.766320
+- First: cao, k. k. | Last: Zhang, l.
+- Corresponding: Ke Su (Department of Cardiology,The 941th Hospital of Joint Logistic Support Force of Chinese People?s Liberation Army,XiNing, China.)
+- Tags: core | n_authors: 13
+Background: Coronary heart disease (CHD) is closely associated with dysregulated lipid metabolism, inflammation, and impaired adenosine signaling. However, the contribution of adenosine-related genes (ARGs) and their relationship with the immune microenvironment remain unclear. Methods: Public transcriptomic datasets were integrated with curated ARGs. Differential expression analysis and weighted gene co-expression network analysis identified candidate genes, and XGBoost, support vector machine-recursive feature elimination, and Boruta were used to select diagnostic features. Gene set enrichment, immune infiltration, regulatory-network, and single-cell RNA-sequencing analyses were performed, followed by reverse transcription-quantitative polymerase chain reaction validation. Results: We identified 4,884 differentially expressed genes and 243 ARG-associated module genes, yielding 231 candidate genes. DYRK2 and SIGIRR were prioritized as key genes and were consistently downregulated in bulk CHD datasets, including the validation cohort. A two-gene nomogram showed strong diagnostic performance. Functional analyses linked both genes to mitochondrial dysfunction and innate immune regula...
 
-### BEguided: Systematic guide and base editor evaluation for precision single-nucleotide editing
-- biorxiv | 2026-11-20 | https://doi.org/10.64898/2026.11.20.767841
-- First: Schmitt, L. T. | Last: Sayed, S.
-- Corresponding: Lukas Theo Schmitt (Medical Systems Biology, Faculty of Medicine Carl Gustav Carus, TU Dresden, Dresden, Germany.)
-- Tags: secondary, disease | n_authors: 6
-Base editing enables precise nucleotide substitutions without introducing DNA double-strand breaks, but identifying optimal editor-guide combinations remains challenging because PAM compatibility, editing-window positioning, bystander modifications, and off-target effects must be considered simultaneously. Here, we introduce BEguided, an integrated computational platform for variant-specific guide RNA design and systematic comparison across 38 predefined base-editor profiles, with support for user-defined editors. BEguided incorporates single-nucleotide variants directly into target sequences, eliminating the need for customized reference genomes, while its companion tool, BEguidedOFF, provides base-editing-aware off-target prediction. To demonstrate the utility of this approach, we systematically assessed the accessibility of the 1,000 most frequent ABE-editable cancer mutations to adenine base editing. Under stringent guide-quality, bystander-editing, and predicted off-target criteria, only 7 mutations could be targeted using SpCas9-ABE8e. Expanding the analysis to additional SpCas9-compatible adenine base editors increased this number to 30, while inclusion of SaCas9, relaxed-PA...
+### Remarkable Biosynthetic Diversity in the Bionectriaceae: Uncovering the genomic basis of antipathogen bioactivity of cacao fungal endophytes Clonostachys rosea and Waltergamsia zeylanica.
+- biorxiv | 2026-11-22 | https://doi.org/10.64898/2026.11.16.767117
+- First: Atencio, L. A. | Last: Mejia, L. C.
+- Corresponding: Librada Antonia Atencio (Instituto de Investigaciones Cientificas y Servicios de Alta Tecnologia de Panama)
+- Tags: core | n_authors: 8
+Cacao (Theobroma cacao) production in tropical countries is threatened by fungal diseases caused by Moniliophthora roreri and M. perniciosa. Two cacao pod endophytes from Bionectriaceae, Clonostachys rosea TCF417 and Waltergamsia zeylanica TCF400, exhibit growth antagonism towards M. roreri; however, the genetic basis underlying the bioactivity of these strains has not been addressed. Here, we aimed to identify biosynthetic gene clusters (BGCs) potentially associated with the antifungal bioactivity of these two strains and performed a comparative analysis with 30 publicly available Bionectriaceae genomes using BiG-SCAPE. Whole-genome sequencing using Oxford Nanopore and Illumina technologies, resulted in assemblies of 52.9 Mb (C. rosea TCF417) and 31 Mb (W. zeylanica TCF400). Genome annotation was conducted using Funannotate, and secondary metabolite BGCs were predicted using antiSMASH. The two cacao endophytes harbored 92 BGCs (C. rosea: 67; W. zeylanica: 25), indicating remarkable biosynthetic diversity. Across all 32 genomes, 1,523 BGC-containing regions were identified, most belonging to T1PKS clusters. Network-based clustering revealed 209 gene cluster families (GCFs), of whic...
 
-### Cross-Species Dynamics of Transposable Elements in Aging Female Visceral Adipose Tissues
-- biorxiv | 2026-11-20 | https://doi.org/10.64898/2026.11.13.766407
-- First: Ali, S. S. | Last: Wang, J.
-- Corresponding: Jinhua Wang (University of Minnesota)
-- Tags: core, disease | n_authors: 11
-Transposable elements (TEs) make up nearly half of mammalian genomes and are increasingly implicated in genomic instability, cellular stress responses, aging, and age-related disease. Recent past research has highlighted their significant involvement in disease models such as cancer and Alzheimer's disease (AD), though much remains to be unraveled regarding these genomic insertions. In this study, we explore the involvement of TEs in aging female mouse and human visceral adipose tissue (VAT) using 10x single-nucleus RNA sequencing (snRNA-seq) data analyzed with the computational tool SoloTE. By assessing the TE-annotated snRNA-seq count matrix using Seurat, we found that retrotransposons-specifically short interspersed nuclear elements (SINEs) and long interspersed nuclear elements (LINEs) on chromosomes 1 and 19-are significantly upregulated in aging female human VAT and in potential senescent cells (CDKN1A^+). Although changes in mouse VAT were less pronounced, long terminal repeats (LTRs) were predominant in aging mouse cells. Furthermore, analysis of upregulated features in aging and CDKN1A^+ female human VAT cells revealed that LINE and SINE TEs embedded within specific gene l...
+### EPIC2: integrating single-cell chromatin accessibility with human genetics to identify trait-relevant cell types
+- biorxiv | 2026-11-22 | https://doi.org/10.64898/2026.11.12.766196
+- First: Zhu, L. | Last: Jiang, Y.
+- Corresponding: Yuchao Jiang (Texas A&M University)
+- Tags: core, secondary | n_authors: 2
+Summary: EPIC2 is a computational and statistical framework for prioritizing trait-relevant cellular contexts by integrating genome-wide association study (GWAS) summary statistics with single-cell chromatin accessibility data. It accounts for linkage disequilibrium when testing for association between GWAS association strength and cell-type-specific chromatin accessibility at both SNP and regulatory-peak resolutions. The resulting P-values are combined using the Cauchy combination test. Availability and Implementation: The core workflow is implemented in R, with source code, vignettes, and reproducible test data freely available at https://github.com/LingxuanZ/EPIC2. Supplementary Information: Supplementary material accompanies this preprint.
 
-### NOTCH3 p.R544C Drives Early Neurovascular Unit Dysfunction through Blood-Brain Barrier Failure, Complement Signalling and Metabolic Dysregulation
-- biorxiv | 2026-11-20 | https://doi.org/10.64898/2026.11.17.767474
-- First: Lee, J. W. L. | Last: Zeng, L.
-- Corresponding: Li Zeng (National Neuroscience Institute)
-- Tags: core | n_authors: 15
-Cerebral small vessel disease is a major cause of stroke and vascular cognitive impairment, yet the mechanisms that initiate neurovascular dysfunction before irreversible brain injury remain poorly defined. CADASIL, caused by cysteine-altering NOTCH3 mutations, provides a genetically tractable model to resolve these early events. Here, we investigated the Asian-enriched NOTCH3 p.R544C variant and tested whether early disease emerges through interconnected blood-brain barrier (BBB), inflammatory, and metabolic dysfunction. NOTCH3 p.R544C iPSC-derived endothelial cells showed impaired angiogenesis and migration, reduced barrier resistance, disrupted tight-junction organisation, and altered vascular, adhesion, and extracellular-matrix programmes. In multicellular BBB-like microtissues, these defects propagated across the neurovascular unit, producing disorganised vascular networks, enlarged luminal structures, and increased permeability, establishing BBB failure as an early disease layer. Single-cell transcriptomics revealed coordinated loss of endothelial BBB transport and efflux programmes with astrocytic complement, innate immune, and matrix-remodelling activation. Secretome profil...
+### High-Resolution Spatial Transcriptomics Reveals Millimeter-Scale Malignant Territories and Immune Exclusion patterns in Human Salivary Gland Adenoid Cystic Carcinoma
+- biorxiv | 2026-11-22 | https://doi.org/10.64898/2026.11.10.765744
+- First: Bijukumar, G. | Last: Edwards, J. S.
+- Corresponding: Jeremy S. Edwards (University of New Mexico)
+- Tags: core, disease | n_authors: 6
+Background/Objectives: Adenoid cystic carcinoma (ACC) of the salivary gland (SGACC) is a rare malignancy with frequent late recurrence and limited response to systemic and immune therapies. Bulk and single-cell sequencing do not preserve tissue architecture, so the spatial organization of its MYB-driven myoepithelial and luminal tumor cells, stroma, and immune cells remains poorly defined. This study aimed to map the SGACC tumor microenvironment at near-cellular resolution. Methods: Visium HD based spatial transcriptomics was performed on four SGACC tissue sections from three patients with tubulo-cribriform tumor form in stage III - IV. Bins of 10 x 10 {micro}m were annotated and deconvolved with cell2location using an integrated single-cell reference of 119,189 cells from 20 donors. Pseudobulk differential expression, spatial autocorrelation, potency and spatial trajectory inference, permutation-based territory analysis, Hotspot module detection, and marker-based immune profiling were applied. Results: MYB-expressing luminal (LECs-MYB) and myoepithelial (MECs-MYB) epithelial cells occupied 55.7% of bins on average. The MECs-MYB to LECs-MYB ratio increased from the nest interior to...
 
-### Distinct innate immune states associate with divergent serological outcomes after syphilis treatment
-- biorxiv | 2026-11-21 | https://doi.org/10.64898/2026.11.15.766608
-- First: Wei, Q. | Last: Wang, Y.
-- Corresponding: Yetao Wang (Hospital for Skin Diseases, Institute of Dermatology, Chinese Academy of Medical Sciences & Peking Union Medical College)
-- Tags: core | n_authors: 26
-The global resurgence of syphilis poses a major public health challenge, even in the era of effective antibiotic therapy. Following treatment, some patients achieve seroreversion, whereas others remain serofast with persistent nontreponemal antibody reactivity. Although nontreponemal antibody titers guide clinical follow-up, it remains unclear how closely they reflect the resolution of inflammation and recovery of immune function. We integrated single-cell transcriptomics, immunophenotyping in clinical samples, and functional assays to characterize circulating monocytes and natural killer (NK) cells across seroreversion and low- and high-titer serofast states, and further examined the impact of HIV coinfection. CD14+ monocytes retained inflammatory and CD163-associated scavenging programs after seroreversion, whereas serofast patients showed additional IFN-STAT1 activation in this subset. NK cells from serofast patients exhibited reduced JUN expression and impaired degranulation. JNK inhibition reduced the magnitude and altered the kinetics of NK cell degranulation, IFN-{gamma} production, and amphiregulin (AREG) induction. Among low-titer serofast patients, HIV coinfection was ass...
+### Metabolic priming recruits tumour cells across a mitochondrial vulnerability threshold and sensitizes them to chemotherapy
+- biorxiv | 2026-11-22 | https://doi.org/10.64898/2026.11.13.766410
+- First: Iborra, F. J. | Last: Iborra, F. J.
+- Corresponding: Francisco J Iborra (CSIC)
+- Tags: core, disease | n_authors: 1
+Intratumour heterogeneity allows a fraction of cancer cells to escape otherwise effective treatment. Here we ask whether metabolic priming can recruit heterogeneous tumour cells into a transient mitochondrial state that is selectively vulnerable to photodynamic damage. Tetramethylrhodamine methyl ester (TMRM) has previously been shown to act as a mitochondria targeted photosensitizer; we exploit its voltage-dependent accumulation and dynamic fluorescence during pulsed illumination to quantify vulnerability in single cells. The response is a reproducible fluorescence excursion, a rise to a maximum followed by a decay, accompanied by reactive oxygen species production. Comparing seventeen descriptors of this excursion against subsequent fate in 195 cells across four arms shows that quantities referenced to each cell's own resting value outperform static intensity. The simple difference Fmax F0 predicts death with held-out areas under the curve of approximately 0.75 to 0.79, whereas resting intensity alone carries little transferable information and time to peak does not discriminate fate in the datasets tested. Metabolic priming with the PKM2 activator TEPP46 or with ethyl pyruvate i...
 
-## Keyword hits: disease only (2)
+### Smyd1 regulates H3K4me3 to support adaptive fatty acid oxidation in the adult heart during lipid overload
+- biorxiv | 2026-11-22 | https://doi.org/10.64898/2026.11.18.763125
+- First: Mukai, R. | Last: Sadoshima, J.
+- Corresponding: Risa Mukai (Rutgers New Jersey Medical School)
+- Tags: core | n_authors: 8
+Obesity and metabolic syndrome are major risk factors for heart failure, and impaired fatty acid oxidation (FAO) is a key contributor to metabolic dysfunction in obesity-related cardiomyopathy. However, how the heart maintains FAO and adapts to chronic lipid overload remains poorly understood. Here, we identify SET and MYND domain-containing protein 1 (Smyd1), a muscle-specific histone methyltransferase, as an early compensatory regulator of cardiac metabolism in response to lipid overload. In wild-type mouse hearts, high-fat diet (HFD) feeding induced transient increases in Smyd1 expression and H3K4me3 levels during the early-to-mid phase of metabolic stress, both of which returned to baseline levels during prolonged HFD exposure. Single-cell RNA sequencing further revealed that this adaptive increase in Smyd1 expression occurred predominantly in cardiomyocytes. In contrast, cardiac-specific Smyd1 heterozygous knockout mice exhibited accelerated cardiac dysfunction, left ventricular dilation, increased myocardial fibrosis, and reduced survival following HFD feeding. Mechanistically, Smyd1 deficiency impaired the adaptive upregulation of key FAO-related genes and reduced cardiac FA...
 
-### ADP-ribosylation governs the repair of topoisomerase IIIβ-induced nucleic acid damage
-- biorxiv | 2026-11-20 | https://doi.org/10.64898/2026.11.19.767422
-- First: Saha, S. | Last: Sun, Y.
-- Corresponding: Yilun Sun (Department of Pharmacology and Physiology, University of Maryland, School of Medicine, Baltimore, MD 21201, USA)
-- Tags: disease | n_authors: 14
-Abortive DNA and RNA-linked covalent cleavage complexes formed by the unique dual-activity human topoisomerase III{beta} (TOP3B) disrupt nucleic acid metabolism and can promote cancer cell death. Here, we identify poly(ADP-ribosylation) (PARylation) as a key pathway that regulates the repair and stability of both DNA- and RNA-linked TOP3B cleavage complexes (TOP3Bccs). We show that accumulated TOP3Bccs undergo rapid PARylation in a PARP1-dependent manner and that this modification is dynamically...
+### Single-molecule in situ detection and quantification of mitochondrial DNA heteroplasmy
+- biorxiv | 2026-11-22 | https://doi.org/10.64898/2026.11.18.767531
+- First: Gottardo, S. | Last: van den Ameele, J.
+- Corresponding: Jelle van den Ameele (University of Cambridge)
+- Tags: core | n_authors: 6
+The mitochondrial DNA (mtDNA) is a multi-copy genome present in most eukaryotic cells and essential for life. The presence of different mtDNA variants within a cell, or heteroplasmy, may cause pathology when the level of deleterious variants exceeds a critical threshold. However, the mechanisms that control heteroplasmy levels remain poorly understood, in part due to a lack of technologies to visualise mtDNA heteroplasmy in situ and correlate it with intracellular processes. mtDNA single-molecule fluorescence in situ hybridisation (mtDNA-smFISH) allows in situ visualisation of mtDNA molecules and sequence-specific detection of heteroplasmic variants. Here, we provide protocols for sequence-specific detection of mtDNA, large-scale single mtDNA deletions and species-specific haplotypes, in fixed human and Drosophila cells and in whole-mount Drosophila tissues. Combining mtDNA-smFISH with immunohistochemistry using biotin-labelled primary antibodies that resist heat-based denaturation, allows concomitant detection of intracellular proteins. We further describe two image-analysis pipelines, one for 3D quantification and one open-source for 2D quantification of mtDNA deletions in Drosop...
 
-### Minimal eukaryotic DNA polymerase zeta/Rev1 GC-pair mutasome
-- biorxiv | 2026-11-21 | https://doi.org/10.64898/2026.11.20.768204
-- First: McNellis, C. T. | Last: Pavlov, Y. i. I.
-- Corresponding: Youri i. I. Pavlov (Eppley Institute, University of Nebraska Medical Center, Omaha, NE, USA)
-- Tags: disease | n_authors: 6
-In eukaryotes, translesion DNA synthesis (TLS) enables replication across DNA lesions, difficult DNA structures, and during replicative stress. While TLS prevents replication fork collapse, it is inherently mutagenic and requires tight regulation to prevent global mutation rates increase. Here, we show that elevated DNA polymerase pol {zeta}/Rev1 promotes spontaneous mutagenesis during replication. The five subunits of pol zeta complex (pol zeta5) are the catalytic subunit Rev3, the TLS polymera...
+## Keyword hits: disease only (5)
 
-## No keyword hits (37)
+### MicroBioAgent: an AI agent for automated microbiome analysis
+- biorxiv | 2026-11-21 | https://doi.org/10.64898/2026.11.17.767465
+- First: Li, Z. | Last: Zhang, L.
+- Corresponding: Lu Zhang (Hong Kong Baptist University)
+- Tags: disease | n_authors: 5
+Microbiome data analysis demands customized workflows tailored to specific biological questions, sequencing modalities, and data properties. However, constructing and executing these workflows requires navigating heterogeneous software dependencies, reference databases, and multi-step parameter tuning. Here, we present MicroBioAgent, an autonomous, domain-specific agent framework that translates high-level biological queries into executable, study-specific pipelines across 16S rRNA amplicon, ref...
 
-- Nature Communications | Deep ultraviolet gallium-oxide avalanche photodiodes reaching an impulse-response-derived gain-bandwidth record of 152 GHz | last: Cheng-Wei Qiu | https://doi.org/10.1038/s41467-026-79355-2
-- Nature Communications | A highly distorted benzenium cation | last: Siping Pang | https://doi.org/10.1038/s41467-026-79596-1
-- Nature Communications | Greenhouse gas responses to coastal wetland land use change vary by ecosystem and conversion pathway | last: Xianbiao Lin | https://doi.org/10.1038/s41467-026-79685-1
-- Nature Communications | Early-life skin molecular signatures are predictive of atopic dermatitis risk in an Asian preconception birth cohort | last: Elizabeth Huiwen Tham | https://doi.org/10.1038/s41467-026-79674-4
-- Nature Communications | Entropy-engineered polar heterogeneity enables near-decoupled polarization–strain behavior for high-density energy storage | last: Li Jin | https://doi.org/10.1038/s41467-026-79625-z
-- Nature Communications | Mapping temperature using transmission Kikuchi diffraction | last: Matthew Mecklenburg | https://doi.org/10.1038/s41467-026-77502-3
-- Nature Communications | Shape conforming Janus hydrogel for preventing anastomotic leaks | last: Kefeng Ding | https://doi.org/10.1038/s41467-026-79644-w
-- Nature Communications | Structural basis for constitutive activation of oncogenic gp130 mutants found in human inflammatory hepatocellular adenomas | last: Matthew C. Franklin | https://doi.org/10.1038/s41467-026-79742-9
-- Nature Communications | Localized strain-engineered 1D electron guides in 2D MoS2 devices with synaptic memory and high-mobility transistor functionalities | last: SeungNam Cha | https://doi.org/10.1038/s41467-026-79577-4
-- Nature Communications | Visible light drives bright extreme-ultraviolet high harmonics | last: Jens Limpert | https://doi.org/10.1038/s41467-026-79615-1
-- Nature Communications | Chronically stable, frequency-selective auditory brainstem stimulation via ultra-flexible penetrating electrode arrays | last: Hao Wu | https://doi.org/10.1038/s41467-026-79747-4
-- Nature Communications | Landscape fire sourced PM2.5, cause-specific paediatric hospitalisations, and the role of tree cover | last: Shanshan Li | https://doi.org/10.1038/s41467-026-79586-3
-- Nature Communications | A global atlas of digital dermatology to map innovation and disparities | last: Alexander A. Navarini | https://doi.org/10.1038/s41467-026-78602-w
-- Nature Communications | [c2]Daisy-chain molecular turing machines with switchable fluorescence outputs | last: Ben Zhong Tang | https://doi.org/10.1038/s41467-026-79590-7
-- Nature Communications | Episodic memory consolidation by reactivation of human concept neurons during sleep reflects contents, not sequence of events | last: F. Mormann | https://doi.org/10.1038/s41467-026-79544-z
-- Nature Communications | G3BP1-induced retrograde transport blockade triggers HSC activation and liver fibrosis via COPI alternative splicing | last: Hao Zhang | https://doi.org/10.1038/s41467-026-79478-6
-- Nature Communications | Accelerating high-throughput catalyst screening by direct generation of equilibrium adsorption structures | last: Xiao-Ming Cao | https://doi.org/10.1038/s41467-026-79243-9
-- Neuron | Disrupting a cargo receptor entrapment complex is a therapeutic node for distinct proteinopathies | last: Anna Greka | https://doi.org/10.1016/j.neuron.2026.10.023
-- Am J Hum Genet | Position effect at the SOX3 locus by an interchromosomal insertion causes hereditary spastic paraplegia | last: Uffe Birk Jensen | https://doi.org/10.1016/j.ajhg.2026.11.002
-- Genome Biology | Using gene co-expression graph topological fingerprints to enhance pathway activity scoring via xGATE | last: Jichun Xie | https://doi.org/10.1186/s13059-026-04341-2
-- Genome Biology | LmPro-Nano: a method for nanobody optimization using pretrained language and energy prediction models | last: Feng Gao | https://doi.org/10.1186/s13059-026-04355-w
-- Genome Biology | Transposable element copy number variation reveals demographic and environment-associated dynamics during apple domestication | last: Amandine Cornille | https://doi.org/10.1186/s13059-026-04364-9
-- NEJM | From Cold War Politics to Hot Domestic Politics — The Epidemic Intelligence Service at 75 | last: James Colgrove | https://doi.org/10.1056/nejmp2606018
-- NEJM | Declining Fertility Rates — The Role of Assisted Reproductive Technology | last: Jacques Balayla | https://doi.org/10.1056/nejmp2611049
-- NEJM | Papulopustular Rosacea Associated with Demodex Mites | last: Pablo Martinez Fernandez | https://doi.org/10.1056/nejmicm2609236
-- NEJM | Two Ways of Seeing | last: James Lee | https://doi.org/10.1056/nejmp2606324
-- biorxiv | A Novel Autoantibody against LAG-3 in Systemic Lupus Erythematosus | last: Seno, H. | https://doi.org/10.64898/2026.11.14.761730
-- biorxiv | Identification of seven candidate structured noncoding RNA motifs in protists by comparative genomics | last: Li, S. | https://doi.org/10.64898/2026.11.14.765823
-- biorxiv | Quantitative Spatial Analysis of Matrix Remodelling in Wounds Using Digital Pathology and Fractal Analysis | last: Kurinna, S. | https://doi.org/10.64898/2026.11.04.764252
-- biorxiv | Movement refinement and cholinergic regulation of outcome-dependent updating during skilled reaching. | last: Contractor, A. | https://doi.org/10.64898/2026.10.29.762940
-- biorxiv | Linking cross-species hemodynamics with neuronal activity in prefrontal cortex during abstract sequence viewing | last: Desrochers, T. M. | https://doi.org/10.64898/2026.10.23.761183
-- biorxiv | Myeloid DNA methyltransferase 3A loss impairs macrophage polarization and promotes inflammation, phagocytosis and hepatosplenomegaly | last: Rosenstiel, P. | https://doi.org/10.64898/2026.11.17.766737
-- biorxiv | A Beta-to-Alpha seasonal coronavirus antibody signature identifies high and low responders to SARS-CoV-2 vaccination | last: Carroll, M. W. | https://doi.org/10.64898/2026.11.15.766755
-- biorxiv | Unexpected Long Range Actions of AAV8 | last: Williams, M. R. | https://doi.org/10.64898/2026.11.20.767967
-- biorxiv | Single-base 5mC and 5hmC profiling identifies a dynamic 5hmC-to-5mC transition at gene bodies and transcription end sites during neuronal differentiation of mouse embryonic stem cells. | last: Pradhan, S. | https://doi.org/10.64898/2026.11.20.768104
-- biorxiv | Structural correlates of disease-associated CTSC variants in Papillon-Lefevre syndrome | last: Santos, V. | https://doi.org/10.64898/2026.11.18.767647
-- medrxiv | Short intervals of inertial measurement unit data collected during activities of daily living can provide a quantitative method to assess disease severity and functional ability in Parkinson's disease | last: Grill, S. | https://doi.org/10.64898/2026.10.30.26366941
+### Bryostatin-1 exploits a developmental signaling vulnerability in MEF2D-rearranged B-cell precursor acute lymphoblastic leukemia
+- biorxiv | 2026-11-22 | https://doi.org/10.64898/2026.11.12.766137
+- First: Glaziou, Q. | Last: Jafari, R.
+- Corresponding: Rozbeh Jafari (Karolinska Institute)
+- Tags: disease | n_authors: 17
+MEF2D-rearranged (MEF2D-r) B-cell precursor acute lymphoblastic leukemia (BCP-ALL) is a rare molecular subtype associated with high-risk clinical features and frequent relapse and characterized by a distinctive pre-B-cell developmental state and dependence on pre-B-cell receptor (pre-BCR) signaling. Despite these distinctive biological features, MEF2D-r BCP-ALL lacks subtype-directed therapy. Here, we identify a pharmacologically actionable vulnerability to the diacylglycerol (DAG) mimetic bryos...
+
+### High GPX4 Expression Marks an Oxidative-Metabolic, PD-L1/CD47-Low and Stroma-Poor Tumor State in Hepatocellular Carcinoma
+- biorxiv | 2026-11-22 | https://doi.org/10.64898/2026.11.13.766360
+- First: Govindaraj, P. R. | Last: Akaye, M. P.
+- Corresponding: Prakash Raj Govindaraj (Moscow Institute of Physics and Technology)
+- Tags: disease | n_authors: 2
+Background: Glutathione peroxidase 4 (GPX4) protects cancer cells from ferroptosis and is a candidate therapeutic target in hepatocellular carcinoma (HCC). How GPX4 expression relates to the immune and metabolic features of patient tumors is not well characterized. Methods: We analyzed RNA-sequencing data from 366 primary tumors of the TCGA-LIHC PanCancer Atlas cohort (365 with survival data). Associations between GPX4 and ten immune and stress-response markers were tested by Spearman correlatio...
+
+### Media matters: A resource for understanding the determinants of migratory potential of malignant and non-malignant cells
+- biorxiv | 2026-11-22 | https://doi.org/10.64898/2026.11.18.767665
+- First: Kim, B. | Last: Osborne, J. K.
+- Corresponding: Jihan K Osborne (UT Southwestern Medical Center)
+- Tags: disease | n_authors: 19
+Cell mobility is critical for homeostatic processes such as wound repair and diseases like cancer metastasis. While the advent of migrastatic and antimetastatic therapies has promise, the identification and translation of pathways important for migratory plasticity into druggable targets approved in clinical trials are considerably lacking. To better understand why, we developed an unbiased high-throughput wound-healing/invasion assay to screen for the migratory potential of >60 non-malignant an...
+
+### YAP activity sustains mitochondrial adaptation to NAMPT inhibition in triple-negative breast cancer
+- biorxiv | 2026-11-22 | https://doi.org/10.64898/2026.11.18.766653
+- First: Buongiorno, A. | Last: Provenzani, A.
+- Corresponding: Agata Sofia Assuncao Carreira (University of Oxford)
+- Tags: disease | n_authors: 7
+Nicotinamide adenine dinucleotide (NAD+) is an essential metabolic cofactor, and maintenance of NAD+ homeostasis is critical for cancer cell survival. Pharmacological inhibition of nicotinamide phosphoribosyltransferase (NAMPT), the rate-limiting enzyme of the NAD+ salvage pathway, induces NAD+ depletion and energetic stress, although the development of resistance limits its therapeutic potential. We have previously shown that acquired resistance to NAMPT inhibition in triple-negative breast can...
+
+## No keyword hits (16)
+
+- Nature | Net zero emissions won’t reverse climate change — some nations look to ‘net negative’ | last: James Dinneen | https://doi.org/10.1038/d41586-026-03789-3
+- Nature Communications | A quantitative deep-learning-based framework reveals a continuum of chromatin sensitivities across transcription factors | last: Dirk Schübeler | https://doi.org/10.1038/s41467-026-79404-w
+- Nature Communications | Super-resolution microscopy reveals distinct epigenetic states regulated by estrogen receptor activity | last: Myles Brown | https://doi.org/10.1038/s41467-026-79507-4
+- Nature Communications | Desmin filaments extend along actin filaments within the mouse skeletal muscle sarcomere | last: Shenhav Shemer | https://doi.org/10.1038/s41467-026-79344-5
+- Nature Communications | Denitrogenative glycosylations of glycosyl sulfonohydrazides | last: Feng Zhu | https://doi.org/10.1038/s41467-026-79707-y
+- Nature Communications | Foliar and floral frost damage reshape reproductive phenology with limited carry-over effects | last: Qianqian Ma | https://doi.org/10.1038/s41467-026-79723-y
+- Nature Communications | Electrically induced glass transition of polyelectrolyte complexes enables kinetic ionic diodes | last: Hyeong Jun Kim | https://doi.org/10.1038/s41467-026-79559-6
+- biorxiv | Training background shapes the exercise-induced extracellular vesicle proteome to acute exercise with partial overlap with cold exposure in humans | last: Soriano-Arroquia, A. | https://doi.org/10.64898/2026.11.19.767541
+- biorxiv | Dual mRNA delivery corrects physical and biochemical deficits in a mouse model of hepatic onset trifunctional protein deficiency | last: Koeberl, D. D. | https://doi.org/10.64898/2026.11.19.767734
+- biorxiv | RADSuite: Improving Species-Level Identification in Microbiome Research | last: Johnson, W. E. | https://doi.org/10.64898/2026.11.18.767742
+- biorxiv | Macrophage signaling history constrains subsequent transcriptional responses to cytokine stimulation | last: Bryson, B. D. | https://doi.org/10.64898/2026.11.14.765729
+- biorxiv | Astrocyte-secreted Cathepsin D regulates hippocampal memory through extracellular matrix remodeling | last: Park, H. | https://doi.org/10.64898/2026.11.20.768232
+- biorxiv | Xist deletion in T cells protects against influenza-induced lung injury | last: Anguera, M. | https://doi.org/10.64898/2026.11.20.768059
+- biorxiv | Syngeneic human iPSC Macrophages and Microglia possess distinct neuroinflammatory profiles, responses to HIV infection, and ART treatment | last: Gaskill, P. J. | https://doi.org/10.64898/2026.11.17.767399
+- biorxiv | A latent tau amplifier in the neuronal proteome lowers the seeding threshold for Alzheimers disease pathology | last: Schymkowitz, J. | https://doi.org/10.64898/2026.11.16.766884
+- biorxiv | Read&Tag enables antibody-independent combinatorial and multifactorial chromatin profiling | last: Villasenor, R. | https://doi.org/10.64898/2026.11.19.763725
